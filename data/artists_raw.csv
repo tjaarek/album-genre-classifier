@@ -1,0 +1,201 @@
+genre,artist_name,artist_id
+metal,Metallica,2ye2Wgw4gimLv2eAKyk1NB
+metal,Iron Maiden,6mdiAmATAx73kdxrNrnlao
+metal,Black Sabbath,5M52tdBnJaKSvOpJGz8mfZ
+metal,Slayer,1IQ2e1buppatiN1bxUVkrk
+metal,Megadeth,1Yox196W7bzVNZI7RBaPnf
+metal,Judas Priest,2tRsMl4eGxwoNabM08Dm4I
+metal,Pantera,14pVkFUHDL207LzLHtSA18
+metal,Motörhead,1DFr97A9HnbV3SKTJFu62M
+metal,Anthrax,3JysSUOyfVs1UQ0UaESheP
+metal,Sepultura,6JW8wliOEwaDZ231ZY7cf4
+metal,Lamb of God,3JFsVIxOn7STeilPICkkB2
+metal,Gojira,0GDGKpJFhVpcjIGF8N6Ewt
+metal,Mastodon,1Dvfqq39HxvCJ3GvfeIFuT
+metal,Opeth,0ybFZ2Ab08V8hueghSXm6E
+metal,In Flames,57ylwQTnFnIhJh4nu4rxCs
+metal,Blind Guardian,7jxJ25p0pPjk0MStloN6o6
+metal,Running Wild,7954VFaZClkL503srfV5PE
+metal,Powerwolf,5HFkc3t0HYETL4JeEbDB1v
+metal,Doro,5GLeyUhj8B8f5pJxqZllKl
+metal,Dream Theater,2aaLAng2L2aWD2FClzwiep
+classical,Ludwig van Beethoven,2wOqMjp9TyABvtHdOSOTUS
+classical,Wolfgang Amadeus Mozart,4NJhFmfw43RLBLjQvxDuRS
+classical,Johann Sebastian Bach,5aIqB5nVVvmFsvSdExz408
+classical,Frédéric Chopin,7y97mc3bZRFXzT2szRM4L4
+classical,Pyotr Ilyich Tchaikovsky,3MKCzCnpzw3TjUYs2v7vDA
+classical,Claude Debussy,1Uff91EOsvd99rtAupatMP
+classical,Franz Schubert,2p0UyoPfYfI76PCStuXfOP
+classical,Antonio Vivaldi,2QOIawHpSlOwXDvSqQ9YJR
+classical,Johannes Brahms,5wTAi7QkpP6kp8a54lmTOq
+classical,Gustav Mahler,2ANtgfhQkKpsW6EYSDqldz
+classical,Igor Stravinsky,7ie36YytMoKtPiL7tUvmoE
+classical,Franz Liszt,1385hLNbrnbCJGokfH2ac2
+classical,Robert Schumann,2UqjDAXnDxejEyE0CzfUrZ
+classical,Joseph Haydn,656RXuyw7CE0dtjdPgjJV6
+classical,Sergei Rachmaninoff,0Kekt6CKSo0m5mivKcoH51
+classical,Heinrich Schütz,4Fw8f0YbjBs9suGEwInPJe
+classical,Paul Hindemith,3u1fWmwpwPOmMelTAo0Gb8
+classical,Carl Orff,4LXxsm5BF85PWnQ1dUDAze
+classical,Clara Schumann,2yzaWNFV3cxmcRZtwtr5WC
+classical,Max Reger,2qpchAUtJNY45rG7auwQgz
+hiphop,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg
+hiphop,Drake,3TVXtAsR1Inumwj472S9r4
+hiphop,Kanye West,5K4W6rqBFWDnAN6FQUkS6x
+hiphop,J. Cole,6l3HvQ5sa6mXTsMTB19rO5
+hiphop,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY
+hiphop,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB
+hiphop,Eminem,7dGJo4pcD2V6oG8kP0tJRR
+hiphop,The Notorious B.I.G.,5me0Irg2ANcsgc93uaYrpb
+hiphop,2Pac,1ZwdS5xdxEREPySFridCfh
+hiphop,Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG
+hiphop,Ice Cube,3Mcii5XWf6E0lrY3Uky4cA
+hiphop,Lil Wayne,55Aa2cqylxrFIXC767Z865
+hiphop,50 Cent,3q7HBObVc0L8jNeTe5Gofh
+hiphop,"Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF
+hiphop,Mac Miller,4LLpKhyESsyAXpc4laK94U
+hiphop,Apache 207,1qQLhymHXFPtP5U8KNKsm6
+hiphop,Haftbefehl,6ynopZPMBXcIGBI9M02Un5
+hiphop,Kontra K,4lDiJcOJ2GLCK6p9q5BgfK
+hiphop,Marteria,3nDNDLcZuSto4k9u4AbcLB
+hiphop,OutKast,1G9G7WwrXka3Z1r7aIDjI7
+jazz,Miles Davis,0kbYTNQb4Pb1rPbbaF0pT4
+jazz,John Coltrane,2hGh5VOeeqimQFxqXvfCUf
+jazz,Louis Armstrong,19eLuQmk9aCobbVDHc6eek
+jazz,Ella Fitzgerald,5V0MlUE1Bft0mbLlND7FJz
+jazz,Duke Ellington,4F7Q5NV6h5TSwCainz8S5A
+jazz,Charlie Parker,4Ww5mwS7BWYjoZTUIrMHfC
+jazz,Thelonious Monk,4PDpGtF16XpqvXxsrFwQnN
+jazz,Billie Holiday,1YzCsTRb22dQkh9lghPIrp
+jazz,Herbie Hancock,2ZvrvbQNrHKwjT7qfGFFUW
+jazz,Chet Baker,3rxeQlsv0Sc2nyYaZ5W71T
+jazz,Dave Brubeck,3kUKwTJdH8FuWzF8p6Dg9E
+jazz,Sonny Rollins,1VEzN9lxvG6KPR3QQGsebR
+jazz,Bill Evans,4jXfFzeP66Zy67HM2mvIIF
+jazz,Dizzy Gillespie,5RzjqfPS0Bu4bUMkyNNDpn
+jazz,Nina Simone,7G1GBhoKtEPnP86X2PvEYO
+jazz,Michael Wollny,7MbjIv3XpMc2ciNcoWHFcS
+jazz,Joachim Kühn,63ZJSdxmTX5wWRMoS1C5ph
+jazz,Manfred Schoof,4gBdaOEelc50MG1QmlACtu
+jazz,Wolfgang Haffner,1dykPF2xtMuwNNEIKtr1Sj
+jazz,Rolf Kühn,73xPAo16RiiVu6X90p7UVb
+country,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x
+country,Willie Nelson,5W5bDNCqJ1jbCgTxDD0Cb3
+country,Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU
+country,Kenny Rogers,4tw2Lmn9tTPUv7Gy7mVPI4
+country,George Strait,5vngPClqofybhPERIqQMYd
+country,Garth Brooks,4BclNkZtAUq1YrYNzye3N7
+country,Shania Twain,5e4Dhzv426EvQe3aDb64jL
+country,Tim McGraw,6roFdX1y5BYSbp60OTJWMd
+country,Alan Jackson,4mxWe1mtYIYfP040G38yvS
+country,Merle Haggard,2ptmyXoL7poH6Zq62h1QT9
+country,Hank Williams,1FClsNYBUoNFtGgzeG74dW
+country,Waylon Jennings,7wCjDgV6nqBsHguQXPAaIM
+country,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I
+country,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj
+country,Blake Shelton,1UTPBmNbXNTittyMJrNkvw
+country,Achim Petry,7yLO4Ygbcf4YvYkcPupU9h
+country,Angie Gold,20TQiCeGRaVxHewzPwZOal
+country,Chris Stapleton,4YLtscXsxbVgi031ovDDdh
+country,Kacey Musgraves,70kkdajctXSbqSMJbQO424
+country,Luke Combs,718COspgdWOnwOFpJHRZHS
+reggae,Bob Marley & The Wailers,2QsynagSdAqZj3U9HgDzjD
+reggae,Peter Tosh,0oea1hwGMfUxZbLxJc1XUN
+reggae,Jimmy Cliff,3rJ3m1tM6vUgiWLjfV8sRf
+reggae,Dennis Brown,0UmBaQJflaHddKtf1lrA6F
+reggae,Toots & The Maytals,6ZFv3wQwwWPiVDWhv0mjQK
+reggae,Burning Spear,6qaKS0nzGP4hfjl4aFZmEU
+reggae,Gregory Isaacs,6QHu71f8LLeT8n0GzfbYFc
+reggae,Steel Pulse,6UL7BodGc5iVmQGlMwHR0g
+reggae,Black Uhuru,5keeQyPKYRxUCKDMECTXG3
+reggae,Bunny Wailer,389zc5Rwe0MPcE6mSF4AjC
+reggae,Alpha Blondy,41ekW4MXG59xJMXR8dX1OG
+reggae,Don Carlos,5WcGRaGsl0b9sul7jVdDgc
+reggae,Israel Vibration,2Y06xyHPovQ8DWLyVIpSJK
+reggae,The Mighty Diamonds,7Hkqp1OYpXbJgm1JiPD4bs
+reggae,Shabba Ranks,3j7Sw80qzL2FJlryUhI3wG
+reggae,Iriepathie,1YdrZulwIjwmprgY7sH2d3
+reggae,Martin Zobel,5fesJyzdxsc2B7uKXYyz0R
+reggae,Buju Banton,4wLAjfeqAsV66AocWNcowA
+reggae,Morgan Heritage,3VV18HyGcfLTqNjSjbROA1
+reggae,Third World,6qfKnsgz1CwyqA7lTdieRJ
+indie_rock,Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH
+indie_rock,The Strokes,0epOFNiUfyON9EYx7Tpr6V
+indie_rock,Arcade Fire,3kjuyTCjPG1WMFCiyc5IuB
+indie_rock,Vampire Weekend,5BvJzeQpmsdsFp4HGUYUEx
+indie_rock,Tame Impala,5INjqkS1o8h1imAzPqGZBb
+indie_rock,Modest Mouse,1yAwtBaoHLEDWAnWR87hBT
+indie_rock,The National,2cCUtGK9sDU2EoElnk0GNB
+indie_rock,Bon Iver,4LEiUm1SRbFMgfqnQTwUbQ
+indie_rock,Fleet Foxes,4EVpmkEwrLYEg6jIsiPMIb
+indie_rock,Grizzly Bear,2Jv5eshHtLycR6R8KQCdc4
+indie_rock,Beirut,6pmxr66tMAePxzOLfjGNcX
+indie_rock,Interpol,3WaJSfKnzc65VDgmj2zU8B
+indie_rock,Yeah Yeah Yeahs,3TNt4aUIxgfy9aoaft5Jj2
+indie_rock,The Shins,4LG4Bs1Gadht7TCrMytQUO
+indie_rock,Death Cab for Cutie,0YrtvWJMgSdVrk3SfNjTbx
+indie_rock,AnnenMayKantereit,23xqmJEN3oVxwzqtNIyR5m
+indie_rock,Giant Rooks,5wD0owYApRtYmjPWavWKvb
+indie_rock,Milky Chance,1hzfo8twXdOegF3xireCYs
+indie_rock,Alt-J,3XHO7cRUPCLOr6jwp8vsx5
+indie_rock,Foals,6FQqZYVfTNQ1pCqfkwVFEa
+alternative_rock,Nirvana,6olE6TJLqED3rqDCT0FyPh
+alternative_rock,Pearl Jam,1w5Kfo2jwwIPruYS2UWh56
+alternative_rock,Soundgarden,5xUf6j4upBrXZPg6AI4MRK
+alternative_rock,Alice in Chains,64tNsm6TnZe2zpcMVMOoHL
+alternative_rock,Smashing Pumpkins,40Yq4vzPs9VNUrIBG5Jr2i
+alternative_rock,Foo Fighters,7jy3rLJdDQY21OgRLCZ9sD
+alternative_rock,Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5
+alternative_rock,Muse,12Chz98pHFMPJEknJQMWvI
+alternative_rock,Weezer,3jOstUTkEu2JkjvRdBA5Gu
+alternative_rock,Oasis,2DaxqgrOhkeH0fpeiQq2f4
+alternative_rock,Pixies,6zvul52xwTWzilBZl6BUbT
+alternative_rock,Sonic Youth,5UqTO8smerMvxHYA5xsXb6
+alternative_rock,R.E.M.,4KWTAlx2RvbpseOGMEmROg
+alternative_rock,Queens of the Stone Age,4pejUc4iciQfgdX6OKulQn
+alternative_rock,Deftones,6Ghvu1VvMGScGpOUJBAHNH
+alternative_rock,H-Blockx,1V3Nl0Y3EZwqP38KHws6vB
+alternative_rock,Revolverheld,5FYfIAuN8mV5KgVtugwfc0
+alternative_rock,Radiohead,4Z8W4fKeB5YxbusRsdQVPb
+alternative_rock,Placebo,6RZUqkomCmb8zCRqc9eznB
+alternative_rock,Rage Against the Machine,2d0hyoQ5ynDBnkvAbJKORj
+techno,Jeff Mills,2eIDAcLKnWc4D350YyzvgS
+techno,Carl Cox,19SmlbABtI4bXz864MLqOS
+techno,Adam Beyer,1btv9qmIpbp7q1ixCYNdHu
+techno,Charlotte de Witte,1lJhME1ZpzsEa5M0wW6Mso
+techno,Amelie Lens,5Ho1vKl1Uz8bJlk4vbmvmf
+techno,Len Faki,3IjjV8NYa7Mi7qDys0ct4S
+techno,Chris Liebing,21444lX8gpmOX36icLmbFI
+techno,Richie Hawtin,3AhwIUus3pIaA3CvYBEtpy
+techno,Sven Väth,5TQaBSTOSypp7S4jfSnN3F
+techno,Nina Kraviz,1oZmFNkGAT93yD1xX4vTRE
+techno,Pan-Pot,6OQOvP7RAdmAKVXXQqD0Se
+techno,Joris Voorn,4jGpKAmwvU263l0tUh4xKU
+techno,Dax J,2zJJIWKT0LiwdxcwW9RajQ
+techno,I Hate Models,0KqSULB80ft2H3aFg6kJmN
+techno,Rebekah,7rmuxvt1D8dIU920lNcR67
+techno,Marcel Dettmann,1sxHp39RqBEE01pgVqsdyP
+techno,Monkey Safari,5zovXI5By2gUhdr7EByjLa
+techno,Kollektiv Turmstrasse,1oXiuCd5F0DcnmXH5KaM6N
+techno,Stephan Bodzin,2nq2BeSbzExGAv3Y4HgUf7
+techno,Christian Löffler,3tSvlEzeDnVbQJBTkIA6nO
+house,Disclosure,6nS5roXSAGhTGr34W6n7Et
+house,Fisher,1VJ0briNOlXRtJUAzoUJdt
+house,Frankie Knuckles,63yl9nDNrHpiAYGlNJxxjc
+house,Kerri Chandler,7nqpEU6DCHkNtK1bYsyS3W
+house,MK,1yqxFtPHKcGcv6SXZNdyT9
+house,Duke Dumont,61lyPtntblHJvA7FMMhi7E
+house,Chris Lake,5Igpc9iLZ3YGtKeYfSrrOE
+house,Gorgon City,4VNQWV2y1E97Eqo2D5UTjx
+house,CamelPhat,240wlM8vDrf6S4zCyzGj2W
+house,Claptone,4mncDFjVLUa3s025Tct3Ry
+house,Lee Foss,44T94QQEc60Jf7kqGY6Rip
+house,Jamie Jones,4admDxmnri5Zco0xYrJ0ji
+house,Black Coffee,6wMr4zKPrrR0UVz08WtUWc
+house,Solomun,5wJK4kQAkVGjqM9x46KQOC
+house,Mark Knight,3h11MHQeCrcsUgRRijI1zL
+house,Andhim,6XJeFzmI6vrWyHcdB7EImP
+house,Frankey & Sandrino,50AWbCtpX2Hk9qnocJ34gk
+house,Tube & Berger,32wcuqRxZuBY5HbH1bWa8h
+house,Super Flu,1iZiG82D4w7FLHvOUUj4zW
+house,Milk & Sugar,159cwGtgCzNpyHWY6tzihH
