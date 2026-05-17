@@ -1,46 +1,56 @@
 genre,album_id,cover_path,album_name,release_date,artist_id,artist_name
-alternative_rock,4Pw9MrOdWg49FLPL4BFqVg,data/covers/alternative_rock/4Pw9MrOdWg49FLPL4BFqVg.jpg,Time To Move,1994-08-22,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,4AGAmovExAjWpYg30y8jEs,data/covers/alternative_rock/4AGAmovExAjWpYg30y8jEs.jpg,Discover My Soul,1996-09-27,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,7hT7TsR7zxd30zTJRvtwD0,data/covers/alternative_rock/7hT7TsR7zxd30zTJRvtwD0.jpg,Fly Eyes,1998-05-11,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,6z4ibHIGBC2lrfnw0DVkvT,data/covers/alternative_rock/6z4ibHIGBC2lrfnw0DVkvT.jpg,No Excuses,2004-01-01,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,3G8aHNTU8XRhHDPdgto8D8,data/covers/alternative_rock/3G8aHNTU8XRhHDPdgto8D8.jpg,Open Letter To A Friend,2007-01-01,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,4HiZ6Elj4ZkMZok4UavBwJ,data/covers/alternative_rock/4HiZ6Elj4ZkMZok4UavBwJ.jpg,HBLX,2012-05-25,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,2rxpwYYEAWqhDnC9Yi4dEV,data/covers/alternative_rock/2rxpwYYEAWqhDnC9Yi4dEV.jpg,FILLIN_THE_BLANK,2026-03-05,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,6DNMESUKFq062Tw5Hcg6SH,data/covers/alternative_rock/6DNMESUKFq062Tw5Hcg6SH.jpg,Get In The Ring,,1V3Nl0Y3EZwqP38KHws6vB,H-Blockx
-alternative_rock,65X4N0kyi2BEk2YR0ndoAz,data/covers/alternative_rock/65X4N0kyi2BEk2YR0ndoAz.jpg,"Doolittle 25: B-Sides, Peel Sessions And Demos",2014-12-01,6zvul52xwTWzilBZl6BUbT,Pixies
-alternative_rock,5F9YYEKDxenkRpyuovdqZe,data/covers/alternative_rock/5F9YYEKDxenkRpyuovdqZe.jpg,Head Carrier,2016-09-30,6zvul52xwTWzilBZl6BUbT,Pixies
-alternative_rock,5zADZ7IhW2hZqJwkUmQVQY,data/covers/alternative_rock/5zADZ7IhW2hZqJwkUmQVQY.jpg,Doggerel,2022-09-30,6zvul52xwTWzilBZl6BUbT,Pixies
-alternative_rock,0URGQVevUR1nvVXKdXzzzi,data/covers/alternative_rock/0URGQVevUR1nvVXKdXzzzi.jpg,"Pixies at the BBC, 1988-91",2024-03-08,6zvul52xwTWzilBZl6BUbT,Pixies
-alternative_rock,2kL3JicKZpvBfIeDeDPDUX,data/covers/alternative_rock/2kL3JicKZpvBfIeDeDPDUX.jpg,The Night the Zombies Came,2024-10-25,6zvul52xwTWzilBZl6BUbT,Pixies
-alternative_rock,69JnCyCOftZ50o46Jrj5T0,data/covers/alternative_rock/69JnCyCOftZ50o46Jrj5T0.jpg,Revolverheld,2005-09-23,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,1nRkxuB9Edt1ffbu4AnsZc,data/covers/alternative_rock/1nRkxuB9Edt1ffbu4AnsZc.jpg,In Farbe - ReEdition,2010-11-22,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,1ZB7nhBSo5FfPAJlH3dSEA,data/covers/alternative_rock/1ZB7nhBSo5FfPAJlH3dSEA.jpg,In Farbe - ReEdition,2010-11-22,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,2GJf3Mf41uZ05U6ygryyD0,data/covers/alternative_rock/2GJf3Mf41uZ05U6ygryyD0.jpg,Immer in Bewegung,2013-09-23,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,40rrJdNme3cEk8vmyUJwiB,data/covers/alternative_rock/40rrJdNme3cEk8vmyUJwiB.jpg,MTV Unplugged in drei Akten,2015-10-09,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,0dqoVkQcfr9fgQnwx5nKlL,data/covers/alternative_rock/0dqoVkQcfr9fgQnwx5nKlL.jpg,Zimmer mit Blick,2018-04-13,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,0hQxTlc00nOIwjL52YXnQy,data/covers/alternative_rock/0hQxTlc00nOIwjL52YXnQy.jpg,Neu erzählen,2021-10-08,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,2oRgmBur1mrHAaAUxACkkV,data/covers/alternative_rock/2oRgmBur1mrHAaAUxACkkV.jpg,Die Demos - Die Storys hinter den Songs (Track by Track Commentary),2025-08-21,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,2yqTeWduDd2Ri425ZxLtsw,data/covers/alternative_rock/2yqTeWduDd2Ri425ZxLtsw.jpg,20,2025-08-22,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-alternative_rock,5TnNrkTu4KI0y0s09zUBOz,data/covers/alternative_rock/5TnNrkTu4KI0y0s09zUBOz.jpg,Chaostheorie,,5FYfIAuN8mV5KgVtugwfc0,Revolverheld
-classical,2xuT10LdKZD15ZFOoYV4NG,data/covers/classical/2xuT10LdKZD15ZFOoYV4NG.jpg,Hindemith: Symphony in B-Flat,2024-12-17,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,6uDYtKjdcm4deSTYQk3Rt5,data/covers/classical/6uDYtKjdcm4deSTYQk3Rt5.jpg,Hindemith: Concerto for Violin and Orchestra,2025-01-25,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,0QWGJqtuGbOL91UmHyHmNZ,data/covers/classical/0QWGJqtuGbOL91UmHyHmNZ.jpg,Aufbruch des 20. Jahrhunderts im Lied,2025-02-17,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,4J708naxzvBsLDkWQ2z5yp,data/covers/classical/4J708naxzvBsLDkWQ2z5yp.jpg,Paul Hindemith: Konzertmusik für Blasorchester Opus 41,2025-03-04,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,6wMr6sXmeAizmSKsphfDfv,data/covers/classical/6wMr6sXmeAizmSKsphfDfv.jpg,L'atelier des pianistes (The Pianists' Workshop),2025-04-01,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,105ojZq3u0DFElQBUbo0rJ,data/covers/classical/105ojZq3u0DFElQBUbo0rJ.jpg,Hindemith: Der Schwanendreher,2025-07-28,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,2C2TWPu5a5gusC7b3kk3Nn,data/covers/classical/2C2TWPu5a5gusC7b3kk3Nn.jpg,The Sparkling Pianist,2025-08-19,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,2LyhJrocQGOxib6h7Ilpeq,data/covers/classical/2LyhJrocQGOxib6h7Ilpeq.jpg,Hindemith: Ludus Tonalis,2025-09-12,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,5TMURQYPzM2CymxX4F1NMJ,data/covers/classical/5TMURQYPzM2CymxX4F1NMJ.jpg,Hindemith: Sonates pour alto solo,2025-09-19,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,0m1CBRMw16CGeNSiAYGObI,data/covers/classical/0m1CBRMw16CGeNSiAYGObI.jpg,"Monteverdi: L'Orfeo, SV 318",2025-09-19,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,4O9nycdzCLCMzG37G1XdnI,data/covers/classical/4O9nycdzCLCMzG37G1XdnI.jpg,The Pianists' Workshop,2025-09-22,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,6i2hgZzxHmCqwUP1BrsETb,data/covers/classical/6i2hgZzxHmCqwUP1BrsETb.jpg,L'atelier des pianistes - J'apprends le piano,2025-11-21,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,1sAKxljCkpeKWCnv1VMSDH,data/covers/classical/1sAKxljCkpeKWCnv1VMSDH.jpg,"Hindemith: Cardillac, Op. 39",2026-02-06,3u1fWmwpwPOmMelTAo0Gb8,Paul Hindemith
-classical,3IPNELVvNMvIHgocE4SaV9,data/covers/classical/3IPNELVvNMvIHgocE4SaV9.jpg,Relaxing Guitar,2026-02-15,5zyNXVd952fWOjkdGHCvPd,Béla Bartók
-classical,6qoOx2xlsHJUzmPY3V2ljL,data/covers/classical/6qoOx2xlsHJUzmPY3V2ljL.jpg,"Beethoven, Schubert, Brahms & Chopin: Piano Pieces",2026-03-02,5zyNXVd952fWOjkdGHCvPd,Béla Bartók
-classical,73QOPF09jF5HrAVaRZCz3K,data/covers/classical/73QOPF09jF5HrAVaRZCz3K.jpg,The Menuhin Century - The Virtuoso & His Landmark Recordings,2026-04-06,5zyNXVd952fWOjkdGHCvPd,Béla Bartók
-classical,6w3NKI4i5i47iMRR5tOd8W,data/covers/classical/6w3NKI4i5i47iMRR5tOd8W.jpg,Vivaldi 100. 13 Violin Concertos,2026-04-24,2QOIawHpSlOwXDvSqQ9YJR,Antonio Vivaldi
-classical,3B5f174XScFJeRw91HhW4K,data/covers/classical/3B5f174XScFJeRw91HhW4K.jpg,This is Vivaldi,2026-04-24,2QOIawHpSlOwXDvSqQ9YJR,Antonio Vivaldi
-classical,4HAf6ayYq0hCXmw00yqiYo,data/covers/classical/4HAf6ayYq0hCXmw00yqiYo.jpg,Chopin: Complete Piano Concertos,2026-04-24,7y97mc3bZRFXzT2szRM4L4,Frédéric Chopin
+alternative_rock,7Jyg6ic5h9BDJ3WuYWYA6K,data/covers/alternative_rock/7Jyg6ic5h9BDJ3WuYWYA6K.jpg,Placebo,1996-06-17,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,4wxoPjHSYFYurNyKaEiZNT,data/covers/alternative_rock/4wxoPjHSYFYurNyKaEiZNT.jpg,Without You I'm Nothing,1998-10-12,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,0PhJJToPch4jCjrfQjyarw,data/covers/alternative_rock/0PhJJToPch4jCjrfQjyarw.jpg,Black Market Music,2000-10-09,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,2toHnQWm3IbSocaWGYi9J4,data/covers/alternative_rock/2toHnQWm3IbSocaWGYi9J4.jpg,Sleeping With Ghosts,2003-03-24,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,7kTsa1wUFrahJJf1cJEOpZ,data/covers/alternative_rock/7kTsa1wUFrahJJf1cJEOpZ.jpg,Covers,2003-03-24,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,4rIT7o85FQB2KfTMMT4Pj0,data/covers/alternative_rock/4rIT7o85FQB2KfTMMT4Pj0.jpg,Meds,2006-03-13,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,4mrb99X7HPLvB96cd6xnUJ,data/covers/alternative_rock/4mrb99X7HPLvB96cd6xnUJ.jpg,Battle for the Sun,2009-06-09,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,6iODkuCNjOJNbGa8Lo5Bzr,data/covers/alternative_rock/6iODkuCNjOJNbGa8Lo5Bzr.jpg,Loud Like Love,2013-09-16,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,7btVAQanOFqtRyLdvN0DJn,data/covers/alternative_rock/7btVAQanOFqtRyLdvN0DJn.jpg,Placebo: B-Sides,2015-07-31,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,1wYaaOlrRv5VV2aMw9asx4,data/covers/alternative_rock/1wYaaOlrRv5VV2aMw9asx4.jpg,Black Market Music: B-Sides,2015-11-27,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,4Nlo7yTd6v61NVyqjqmegH,data/covers/alternative_rock/4Nlo7yTd6v61NVyqjqmegH.jpg,Sleeping With Ghosts: B-Sides,2016-02-19,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,52NQgBqSYHu1wPZfgV03oe,data/covers/alternative_rock/52NQgBqSYHu1wPZfgV03oe.jpg,Meds: B-Sides,2016-04-08,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,5yzRkYV3JUXfM7u4fBUFHX,data/covers/alternative_rock/5yzRkYV3JUXfM7u4fBUFHX.jpg,Never Let Me Go,2022-03-25,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,3cjmxh58XDxJvviYskIxdd,data/covers/alternative_rock/3cjmxh58XDxJvviYskIxdd.jpg,Without You I'm Nothing: B-Sides,,6RZUqkomCmb8zCRqc9eznB,Placebo
+alternative_rock,5LbHbwejgZXRZAgzVAjkhj,data/covers/alternative_rock/5LbHbwejgZXRZAgzVAjkhj.jpg,Facelift,1990-08-01,64tNsm6TnZe2zpcMVMOoHL,Alice in Chains
+alternative_rock,49R4Qye4UUwzjPPQhtCkRe,data/covers/alternative_rock/49R4Qye4UUwzjPPQhtCkRe.jpg,Alice In Chains,1995-10-30,64tNsm6TnZe2zpcMVMOoHL,Alice in Chains
+alternative_rock,5PdgIAHzwDvTZRjIGSQGtN,data/covers/alternative_rock/5PdgIAHzwDvTZRjIGSQGtN.jpg,Unplugged,1996-07-29,64tNsm6TnZe2zpcMVMOoHL,Alice in Chains
+alternative_rock,4puIIbtVV70tew9msnAEUY,data/covers/alternative_rock/4puIIbtVV70tew9msnAEUY.jpg,Black Gives Way To Blue,2009-09-29,64tNsm6TnZe2zpcMVMOoHL,Alice in Chains
+alternative_rock,0uz3QSBmc0lTYVo2svp4mB,data/covers/alternative_rock/0uz3QSBmc0lTYVo2svp4mB.jpg,The Devil Put Dinosaurs Here,2013-05-28,64tNsm6TnZe2zpcMVMOoHL,Alice in Chains
+alternative_rock,6cTOWANHC25V29GXpfwyFt,data/covers/alternative_rock/6cTOWANHC25V29GXpfwyFt.jpg,Rainier Fog,2018-08-24,64tNsm6TnZe2zpcMVMOoHL,Alice in Chains
+alternative_rock,4FCoFSNIFhK36holxHWCnc,data/covers/alternative_rock/4FCoFSNIFhK36holxHWCnc.jpg,Jar Of Flies,,64tNsm6TnZe2zpcMVMOoHL,Alice in Chains
+alternative_rock,0BiNb8HYR4JvuxUa31Z58Q,data/covers/alternative_rock/0BiNb8HYR4JvuxUa31Z58Q.jpg,Automatic For The People,1992-10-05,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,3pPyHBRk2RvmNn4Cg1Asv6,data/covers/alternative_rock/3pPyHBRk2RvmNn4Cg1Asv6.jpg,New Adventures In Hi-Fi,1996-09-09,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,6Fd9edAlRVM07noCsGCEgY,data/covers/alternative_rock/6Fd9edAlRVM07noCsGCEgY.jpg,Interview Sessions,1996-09-23,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,5AfgJ4mjGvANakNjGrKGgy,data/covers/alternative_rock/5AfgJ4mjGvANakNjGrKGgy.jpg,Up,1998-10-27,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,43goi7G5yXOoI7bLaowtpy,data/covers/alternative_rock/43goi7G5yXOoI7bLaowtpy.jpg,Reveal,2001-05-14,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,5CI03g8QNehnEWXAhRtw0s,data/covers/alternative_rock/5CI03g8QNehnEWXAhRtw0s.jpg,Around The Sun,2004-10-05,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,6l1ZSwtU3tTfRrk4Xreiew,data/covers/alternative_rock/6l1ZSwtU3tTfRrk4Xreiew.jpg,Accelerate,2008-03-31,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,2QfGdHHkWY0zBlwnMtoj9H,data/covers/alternative_rock/2QfGdHHkWY0zBlwnMtoj9H.jpg,Collapse Into Now,2011-03-07,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+alternative_rock,5Wp0EJVppOLDIlaOLUQZXU,data/covers/alternative_rock/5Wp0EJVppOLDIlaOLUQZXU.jpg,All The Way To The End,,4KWTAlx2RvbpseOGMEmROg,R.E.M.
+classical,08SjWtJhG2oG3laSBMTxgg,data/covers/classical/08SjWtJhG2oG3laSBMTxgg.jpg,Mahler: Symphony No. 7,2026-03-13,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,23Hk7TrpV9TNDBt0xkBvon,data/covers/classical/23Hk7TrpV9TNDBt0xkBvon.jpg,Good Mood Classical Bangers,2026-03-14,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,44RnWKv74pRS6AVT84FTQb,data/covers/classical/44RnWKv74pRS6AVT84FTQb.jpg,"""Berceuse au clair de lune"" - Sleep Well",2026-04-02,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,3Yghualwn9VOjrZlEot9Qm,data/covers/classical/3Yghualwn9VOjrZlEot9Qm.jpg,Gathering Clouds,2026-04-04,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,68jpY4u9uDDUummIgt0oPt,data/covers/classical/68jpY4u9uDDUummIgt0oPt.jpg,Spring Sonatas,2026-04-06,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,1XGQuXInbdlgJcrSJ5H2Ec,data/covers/classical/1XGQuXInbdlgJcrSJ5H2Ec.jpg,"Mahler: Symphony No. 2 in C Minor, GMW 30 ""Resurrection""",2026-04-10,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,16Dgxt59Q9cD5MV2DTmpRN,data/covers/classical/16Dgxt59Q9cD5MV2DTmpRN.jpg,Gustav Mahler: Symphonies 1-9,2026-04-10,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,2JnXSoizDMfp2aTef53fct,data/covers/classical/2JnXSoizDMfp2aTef53fct.jpg,"Symphony No. 8 in E-Flat Major ""Symphony of a Thousand""",2026-04-24,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,1Wuce8cKuOB75DTkoeiPSY,data/covers/classical/1Wuce8cKuOB75DTkoeiPSY.jpg,"Symphony No. 6 in A Minor ""Tragic""",2026-04-24,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,2iL8bT1YNYOJrG2z4OPFUT,data/covers/classical/2iL8bT1YNYOJrG2z4OPFUT.jpg,Symphony No. 9 in D Major,2026-04-24,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,0AlOMuWVK9TB5w1U9ROqLV,data/covers/classical/0AlOMuWVK9TB5w1U9ROqLV.jpg,Symphony No. 7 in E Minor,2026-04-24,2ANtgfhQkKpsW6EYSDqldz,Gustav Mahler
+classical,2otdIzvVw3d3n2ely8bZgx,data/covers/classical/2otdIzvVw3d3n2ely8bZgx.jpg,Danielle Laval - A Piano Odyssey,2026-04-01,0Kekt6CKSo0m5mivKcoH51,Sergei Rachmaninoff
+classical,595zxu6FXfZG0ORPtUGwdT,data/covers/classical/595zxu6FXfZG0ORPtUGwdT.jpg,Vsevolod Zavidov Plays Rachmaninoff,2026-04-10,0Kekt6CKSo0m5mivKcoH51,Sergei Rachmaninoff
+classical,72q1ZQoy5OjSAS0t1C3Aec,data/covers/classical/72q1ZQoy5OjSAS0t1C3Aec.jpg,Rachmaninov: Piano Trios Nos. 1 & 2,2026-04-10,0Kekt6CKSo0m5mivKcoH51,Sergei Rachmaninoff
+classical,1pnPKwxzVx9ELj74XoYPIX,data/covers/classical/1pnPKwxzVx9ELj74XoYPIX.jpg,Rachmaninov Songs,2026-04-24,0Kekt6CKSo0m5mivKcoH51,Sergei Rachmaninoff
+classical,6i2rJx1dI4gA5IHb3sQcIB,data/covers/classical/6i2rJx1dI4gA5IHb3sQcIB.jpg,100 Best Karajan,2026-01-01,284mnx33IWcymQEpMxyfHl,Modest Mussorgsky
+classical,6G47ivFS3dkRYgC4u8UV19,data/covers/classical/6G47ivFS3dkRYgC4u8UV19.jpg,"""On the Beautiful Blue Danube"" - Karajan Conducts Exquisite Orchestral Pieces",2026-01-05,284mnx33IWcymQEpMxyfHl,Modest Mussorgsky
+classical,1UfK69ZN5YgwF1FWbVw8gi,data/covers/classical/1UfK69ZN5YgwF1FWbVw8gi.jpg,The Piano Legacy,2026-02-09,284mnx33IWcymQEpMxyfHl,Modest Mussorgsky
+classical,3wmzYS9Tu14IWtzvKnsnaf,data/covers/classical/3wmzYS9Tu14IWtzvKnsnaf.jpg,"""Les Fleurs"" - Romantic and Beyond",2026-02-17,284mnx33IWcymQEpMxyfHl,Modest Mussorgsky
+classical,3sQqPVx2z81dhKGPpCpMJY,data/covers/classical/3sQqPVx2z81dhKGPpCpMJY.jpg,"Berlioz: Marche troyenne & Le carnaval romain - Russian Enchantments: Waltz of the Flowers, Flight of the Bumblebee, Dance of the Tumblers...",2026-04-02,284mnx33IWcymQEpMxyfHl,Modest Mussorgsky
+classical,2mKWlVbOOubHmj6n2s2czx,data/covers/classical/2mKWlVbOOubHmj6n2s2czx.jpg,J.S. Bach: Sonatas for Viola da Gamba,2026-04-24,5aIqB5nVVvmFsvSdExz408,Johann Sebastian Bach
+classical,2sMZaZAOPfTQhi5re2jkTr,data/covers/classical/2sMZaZAOPfTQhi5re2jkTr.jpg,In Memory: Ruth Slenczynska,2026-04-25,5aIqB5nVVvmFsvSdExz408,Johann Sebastian Bach
 country,3Hsqc0J5qdVYRS19Le923K,data/covers/country/3Hsqc0J5qdVYRS19Le923K.jpg,Water & Bridges,2006-03-21,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers
 country,5wrhTdpp4GpO8beuPizWF6,data/covers/country/5wrhTdpp4GpO8beuPizWF6.jpg,She Rides Wild Horses,2008-07-22,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers
 country,2Ntry8W6ww31qU0WppsD3a,data/covers/country/2Ntry8W6ww31qU0WppsD3a.jpg,Christmas From The Heart,2008-07-22,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers
@@ -53,6 +63,15 @@ country,3fUJ4iWTYs3QMDx3YB1kUq,data/covers/country/3fUJ4iWTYs3QMDx3YB1kUq.jpg,Ke
 country,4IVzBlgqcwEyX8oIyAQuy4,data/covers/country/4IVzBlgqcwEyX8oIyAQuy4.jpg,Spend an Hour with..Kenny Rogers,2014-02-11,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers
 country,3ZAZAoBng8rApHtLUfDFrh,data/covers/country/3ZAZAoBng8rApHtLUfDFrh.jpg,Once Again It's Christmas,2015-08-07,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers
 country,0GmSoGXZQH67fjPenXVwhD,data/covers/country/0GmSoGXZQH67fjPenXVwhD.jpg,After All,2023-10-05,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers
+country,5yKErtSo6tkirrhSf0NJnY,data/covers/country/5yKErtSo6tkirrhSf0NJnY.jpg,I Am What I Am,2010-01-01,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,6BbbmZRlsXUEIPibMKwetU,data/covers/country/6BbbmZRlsXUEIPibMKwetU.jpg,Working In Tennessee,2011-01-01,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,14wK1ZVbsCudEDvUH3tItG,data/covers/country/14wK1ZVbsCudEDvUH3tItG.jpg,Django and Jimmie,2015-05-29,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,0SWREWoBHav6iQIJ6zjSJL,data/covers/country/0SWREWoBHav6iQIJ6zjSJL.jpg,I Am A Lonesome Fugitive,2016-05-26,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,1msUwVadzhcziQNaZZTKqn,data/covers/country/1msUwVadzhcziQNaZZTKqn.jpg,Made in the USA Collection,2017-11-21,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,6HqGJkwzb44R93uYERsAFD,data/covers/country/6HqGJkwzb44R93uYERsAFD.jpg,When Times Were Good,2019-07-09,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,2NzGG3ochgTG3RzGSBTuzr,data/covers/country/2NzGG3ochgTG3RzGSBTuzr.jpg,American Country Legend,2024-05-03,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,0zB5wt298PHhgDin2OOgtW,data/covers/country/0zB5wt298PHhgDin2OOgtW.jpg,Ramblin' Fever: More Haggard Classics,2026-04-24,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
+country,5YOIMjp1n5AjepaZUVpfDB,data/covers/country/5YOIMjp1n5AjepaZUVpfDB.jpg,Sing Me Back Home,,2ptmyXoL7poH6Zq62h1QT9,Merle Haggard
 country,2WqHN90AQgk95Str6hWCt9,data/covers/country/2WqHN90AQgk95Str6hWCt9.jpg,I'll Stay Me,2007-01-01,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan
 country,4DkSAOFnWkgrXske8pzELq,data/covers/country/4DkSAOFnWkgrXske8pzELq.jpg,Doin' My Thing,2009-01-01,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan
 country,5IyIjKnGkQbYGVpWenblSe,data/covers/country/5IyIjKnGkQbYGVpWenblSe.jpg,Tailgates & Tanlines,2011-01-01,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan
@@ -63,13 +82,6 @@ country,6NUEU1vyIctdAg8IHot8Wy,data/covers/country/6NUEU1vyIctdAg8IHot8Wy.jpg,Wh
 country,4pcBJRlbk51BTLYyyPqyWh,data/covers/country/4pcBJRlbk51BTLYyyPqyWh.jpg,Play It Again: The Songs You Loved In 2023,2023-12-01,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan
 country,7GIq22HBQ4mKjxE2PaE5Op,data/covers/country/7GIq22HBQ4mKjxE2PaE5Op.jpg,Mind Of A Country Boy,2024-06-14,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan
 country,0SyEsGffJ9ZqvRkuVrzOlB,data/covers/country/0SyEsGffJ9ZqvRkuVrzOlB.jpg,Mind Of A Country Boy,2024-09-27,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan
-country,1WwzK51uHvKUKyhdMJqhVt,data/covers/country/1WwzK51uHvKUKyhdMJqhVt.jpg,Sings,1951-11-09,1FClsNYBUoNFtGgzeG74dW,Hank Williams
-country,32xQwNDwgGA6JfqMRazAQv,data/covers/country/32xQwNDwgGA6JfqMRazAQv.jpg,The Immortal,1958-01-01,1FClsNYBUoNFtGgzeG74dW,Hank Williams
-country,2SOU9W2MdakG9qJnIzcWtf,data/covers/country/2SOU9W2MdakG9qJnIzcWtf.jpg,The Unforgettable Hank Williams,1959-01-01,1FClsNYBUoNFtGgzeG74dW,Hank Williams
-country,1QxZ6BkEToSpD16tUYKkY9,data/covers/country/1QxZ6BkEToSpD16tUYKkY9.jpg,The Lonesome Sound Of Hank Williams,1960-01-01,1FClsNYBUoNFtGgzeG74dW,Hank Williams
-country,4ph5fInLoDTuZcEkYynbk3,data/covers/country/4ph5fInLoDTuZcEkYynbk3.jpg,Again,1966-01-01,1FClsNYBUoNFtGgzeG74dW,Hank Williams
-country,7C1OP5ptF2sLx8YYv8xEyt,data/covers/country/7C1OP5ptF2sLx8YYv8xEyt.jpg,Health & Happiness Shows,1993-03-23,1FClsNYBUoNFtGgzeG74dW,Hank Williams
-country,5tQPnoUuebIXGYLDYdJ89Q,data/covers/country/5tQPnoUuebIXGYLDYdJ89Q.jpg,"The Garden Spot Programs, 1950",2014-05-13,1FClsNYBUoNFtGgzeG74dW,Hank Williams
 hiphop,4UedADJxjokipx8oW1CuqX,data/covers/hiphop/4UedADJxjokipx8oW1CuqX.jpg,Aus dem Schatten ins Licht,2015-02-06,4lDiJcOJ2GLCK6p9q5BgfK,Kontra K
 hiphop,3pzIwqrnLZsSXH3aKWxCV4,data/covers/hiphop/3pzIwqrnLZsSXH3aKWxCV4.jpg,Labyrinth,2016-05-20,4lDiJcOJ2GLCK6p9q5BgfK,Kontra K
 hiphop,3I29DtITsCot8SlktkzhQh,data/covers/hiphop/3I29DtITsCot8SlktkzhQh.jpg,Gute Nacht (with Commentary),2017-04-28,4lDiJcOJ2GLCK6p9q5BgfK,Kontra K
@@ -94,39 +106,54 @@ hiphop,2MFkBVEwfAyUQKpdhoDhW5,data/covers/hiphop/2MFkBVEwfAyUQKpdhoDhW5.jpg,I Am
 hiphop,0EVgPaKOC8o9JFVpKLMSoz,data/covers/hiphop/0EVgPaKOC8o9JFVpKLMSoz.jpg,Everythangs Corrupt,2018-12-07,3Mcii5XWf6E0lrY3Uky4cA,Ice Cube
 hiphop,5rDHgJqsjnIgr7hjCswpL7,data/covers/hiphop/5rDHgJqsjnIgr7hjCswpL7.jpg,Man Down,2024-11-22,3Mcii5XWf6E0lrY3Uky4cA,Ice Cube
 hiphop,1lrNGJv5aIKpx4bznJyHCF,data/covers/hiphop/1lrNGJv5aIKpx4bznJyHCF.jpg,Man Up,2025-09-12,3Mcii5XWf6E0lrY3Uky4cA,Ice Cube
-hiphop,54Y471E7GNBSOXjZtqONId,data/covers/hiphop/54Y471E7GNBSOXjZtqONId.jpg,DAYS BEFORE RODEO,2014-08-18,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-hiphop,4PWBTB6NYSKQwfo79I3prg,data/covers/hiphop/4PWBTB6NYSKQwfo79I3prg.jpg,Rodeo,2015-09-04,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-hiphop,42WVQWuf1teDysXiOupIZt,data/covers/hiphop/42WVQWuf1teDysXiOupIZt.jpg,Birds In The Trap Sing McKnight,2016-09-16,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-hiphop,6FED8aeieEnUWwQqAO9zT1,data/covers/hiphop/6FED8aeieEnUWwQqAO9zT1.jpg,"Huncho Jack, Jack Huncho",2017-12-21,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-hiphop,41GuZcammIkupMPKH2OJ6I,data/covers/hiphop/41GuZcammIkupMPKH2OJ6I.jpg,ASTROWORLD,2018-08-03,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-hiphop,1Sf8GsXG32t0jNrX11xqWx,data/covers/hiphop/1Sf8GsXG32t0jNrX11xqWx.jpg,JACKBOYS,2019-12-27,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-hiphop,18NOKLkZETa4sWwLMIm0UZ,data/covers/hiphop/18NOKLkZETa4sWwLMIm0UZ.jpg,UTOPIA,2023-07-28,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-hiphop,32lGAqeVkdJxEj2iv2Q01B,data/covers/hiphop/32lGAqeVkdJxEj2iv2Q01B.jpg,JACKBOYS 2,2025-07-13,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott
-house,0DdX2VkXM0LmUU2S7S3QeD,data/covers/house/0DdX2VkXM0LmUU2S7S3QeD.jpg,Beyond The Mix,1991-01-01,63yl9nDNrHpiAYGlNJxxjc,Frankie Knuckles
-house,1NJoamn2bFWoVbJKixjFpv,data/covers/house/1NJoamn2bFWoVbJKixjFpv.jpg,Welcome To The Real World,1995-01-01,63yl9nDNrHpiAYGlNJxxjc,Frankie Knuckles
-house,0sefL4h6EEVWqKTrJqalLg,data/covers/house/0sefL4h6EEVWqKTrJqalLg.jpg,Motivation Too,2009-10-12,63yl9nDNrHpiAYGlNJxxjc,Frankie Knuckles
-house,1QkOrPdjpdCvM30kjdbeUI,data/covers/house/1QkOrPdjpdCvM30kjdbeUI.jpg,More Than a Woman,2024-07-24,63yl9nDNrHpiAYGlNJxxjc,Frankie Knuckles
-house,5LZRHuZ5XtTOQsFez4N2yR,data/covers/house/5LZRHuZ5XtTOQsFez4N2yR.jpg,Ever Never,2010-11-19,32wcuqRxZuBY5HbH1bWa8h,Tube & Berger
-house,7fi1pC4Inpgo31LIsXwScy,data/covers/house/7fi1pC4Inpgo31LIsXwScy.jpg,Introlution,2012-07-11,32wcuqRxZuBY5HbH1bWa8h,Tube & Berger
-house,5rNPGUwoYpYAa5ZCHzm06w,data/covers/house/5rNPGUwoYpYAa5ZCHzm06w.jpg,Deeper Sessions (Mixed by Tube & Berger),2014-11-21,32wcuqRxZuBY5HbH1bWa8h,Tube & Berger
-house,0vqlP2RL7GGg20dBBFRrTj,data/covers/house/0vqlP2RL7GGg20dBBFRrTj.jpg,We Are All Stars,2017-05-19,32wcuqRxZuBY5HbH1bWa8h,Tube & Berger
-house,4sO3M71rCfV4VYR4URSXcj,data/covers/house/4sO3M71rCfV4VYR4URSXcj.jpg,Faze #66: Tube & Berger,2017-09-15,32wcuqRxZuBY5HbH1bWa8h,Tube & Berger
-house,38dlIbsX4Zfbj5vReAyDvd,data/covers/house/38dlIbsX4Zfbj5vReAyDvd.jpg,We Are All Stars Remixes Part II,2018-10-05,32wcuqRxZuBY5HbH1bWa8h,Tube & Berger
-house,14XwY6XkIUzYJ4JQp4BVbK,data/covers/house/14XwY6XkIUzYJ4JQp4BVbK.jpg,Don't You Remember the Future,2009-09-07,4admDxmnri5Zco0xYrJ0ji,Jamie Jones
-house,7sKVcvyDGR6M5iVfOFJUIE,data/covers/house/7sKVcvyDGR6M5iVfOFJUIE.jpg,Tracks from the Crypt,2012-06-18,4admDxmnri5Zco0xYrJ0ji,Jamie Jones
-house,1fMb234ZX08RYHyhyFbH6L,data/covers/house/1fMb234ZX08RYHyhyFbH6L.jpg,Mixmag presents Jamie Jones: Forever Is Composed Of Nows (DJ Mix),,4admDxmnri5Zco0xYrJ0ji,Jamie Jones
-house,1lWeLK2QogsTrnjuPWJBM7,data/covers/house/1lWeLK2QogsTrnjuPWJBM7.jpg,Mixmag Presents Jamie Jones vs. Seth Troxler,,4admDxmnri5Zco0xYrJ0ji,Jamie Jones
-indie_rock,0c1yNi1MuGlcNrCzU2kDVE,data/covers/indie_rock/0c1yNi1MuGlcNrCzU2kDVE.jpg,Cage The Elephant,2008-01-01,26T3LtbuGT1Fu9m0eRq5X3,Cage the Elephant
-indie_rock,2jVxhH1xg6EIc87rGM1Ogt,data/covers/indie_rock/2jVxhH1xg6EIc87rGM1Ogt.jpg,Thank You Happy Birthday,2011-01-01,26T3LtbuGT1Fu9m0eRq5X3,Cage the Elephant
-indie_rock,5nJ9B1KiydXoYWAcyqlG76,data/covers/indie_rock/5nJ9B1KiydXoYWAcyqlG76.jpg,Melophobia,2013-10-08,26T3LtbuGT1Fu9m0eRq5X3,Cage the Elephant
-indie_rock,0nW0w37lrQ87k7PLZvC4qJ,data/covers/indie_rock/0nW0w37lrQ87k7PLZvC4qJ.jpg,Tell Me I'm Pretty,2015-12-18,26T3LtbuGT1Fu9m0eRq5X3,Cage the Elephant
-indie_rock,4zpN41aGAYPWX3dzE19rH7,data/covers/indie_rock/4zpN41aGAYPWX3dzE19rH7.jpg,Unpeeled,2017-07-28,26T3LtbuGT1Fu9m0eRq5X3,Cage the Elephant
-indie_rock,2VuZJsJBPLwg9BeQFQle8G,data/covers/indie_rock/2VuZJsJBPLwg9BeQFQle8G.jpg,Social Cues,2019-04-19,26T3LtbuGT1Fu9m0eRq5X3,Cage the Elephant
-indie_rock,2dGlEut1TyhAyApZ0ADIsd,data/covers/indie_rock/2dGlEut1TyhAyApZ0ADIsd.jpg,Neon Pill,2024-05-17,26T3LtbuGT1Fu9m0eRq5X3,Cage the Elephant
-indie_rock,4Tm0dXi3s3aSAqng2DACHr,data/covers/indie_rock/4Tm0dXi3s3aSAqng2DACHr.jpg,Wincing The Night Away,2007-01-23,4LG4Bs1Gadht7TCrMytQUO,The Shins
-indie_rock,4ZTcGoOrNro2aCAStXEjZi,data/covers/indie_rock/4ZTcGoOrNro2aCAStXEjZi.jpg,Port Of Morrow,2012-03-19,4LG4Bs1Gadht7TCrMytQUO,The Shins
-indie_rock,51q9Mkz5BVwTRYsMlLASVZ,data/covers/indie_rock/51q9Mkz5BVwTRYsMlLASVZ.jpg,Heartworms,2017-03-10,4LG4Bs1Gadht7TCrMytQUO,The Shins
-indie_rock,1Hz6OvbYJR0s2AWS1EvO6c,data/covers/indie_rock/1Hz6OvbYJR0s2AWS1EvO6c.jpg,The Worm's Heart,2018-01-19,4LG4Bs1Gadht7TCrMytQUO,The Shins
+hiphop,7MZzYkbHL9Tk3O6WeD4Z0Z,data/covers/hiphop/7MZzYkbHL9Tk3O6WeD4Z0Z.jpg,Relapse: Refill,2009-05-15,7dGJo4pcD2V6oG8kP0tJRR,Eminem
+hiphop,47BiFcV59TQi2s9SkBo2pb,data/covers/hiphop/47BiFcV59TQi2s9SkBo2pb.jpg,Recovery,2010-06-18,7dGJo4pcD2V6oG8kP0tJRR,Eminem
+hiphop,0U6ldwLBEMkwgfQRY4V6D2,data/covers/hiphop/0U6ldwLBEMkwgfQRY4V6D2.jpg,Revival,2017-12-15,7dGJo4pcD2V6oG8kP0tJRR,Eminem
+hiphop,3HNnxK7NgLXbDoxRZxNWiR,data/covers/hiphop/3HNnxK7NgLXbDoxRZxNWiR.jpg,Kamikaze,2018-08-31,7dGJo4pcD2V6oG8kP0tJRR,Eminem
+hiphop,4otkd9As6YaxxEkIjXPiZ6,data/covers/hiphop/4otkd9As6YaxxEkIjXPiZ6.jpg,Music To Be Murdered By,2020-01-17,7dGJo4pcD2V6oG8kP0tJRR,Eminem
+hiphop,3kjHLu1pL7tdY88GFwEkl6,data/covers/hiphop/3kjHLu1pL7tdY88GFwEkl6.jpg,The Death of Slim Shady (Coup De Grâce),2024-07-12,7dGJo4pcD2V6oG8kP0tJRR,Eminem
+hiphop,5DV2liMHX5AqtiLqy3Qu1b,data/covers/hiphop/5DV2liMHX5AqtiLqy3Qu1b.jpg,STANS (The Official Soundtrack),2025-08-26,7dGJo4pcD2V6oG8kP0tJRR,Eminem
+house,6tt7Ye3rwREfSXUOpaGPzA,data/covers/house/6tt7Ye3rwREfSXUOpaGPzA.jpg,My Old Friend / We Can,1999-02-01,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,2zZnmvE6CBE2i4shkurIoX,data/covers/house/2zZnmvE6CBE2i4shkurIoX.jpg,Trionisphere,2003-06-05,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,1xDa7ThS9k1zJEZql4QnYS,data/covers/house/1xDa7ThS9k1zJEZql4QnYS.jpg,Essentials,2006-01-01,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,0VBC5IHz4wNedZsjVz6J4m,data/covers/house/0VBC5IHz4wNedZsjVz6J4m.jpg,Kerri Chandler's Nervous Tracks,2007-05-22,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,5AAWI3Gl5SaKVIJSZFpoH2,data/covers/house/5AAWI3Gl5SaKVIJSZFpoH2.jpg,You Can't Lie,2009-10-09,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,49icjQSG89VxWFjwp9UERk,data/covers/house/49icjQSG89VxWFjwp9UERk.jpg,DJ-Kicks (Kerri Chandler) [Mixed Tracks],2017-10-20,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,0gBxMDsIAHDZjJpZDV7glr,data/covers/house/0gBxMDsIAHDZjJpZDV7glr.jpg,Spaces and Places Album Sampler 2,2022-06-10,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,1jYv5qTSvJsI1Uf2LNKmi3,data/covers/house/1jYv5qTSvJsI1Uf2LNKmi3.jpg,Joy Road Remix Album,,7nqpEU6DCHkNtK1bYsyS3W,Kerri Chandler
+house,1Y1ejuQvNlSQXKA7Ef5qzW,data/covers/house/1Y1ejuQvNlSQXKA7Ef5qzW.jpg,Housemusic.De,2003-10-20,159cwGtgCzNpyHWY6tzihH,Milk & Sugar
+house,0SzLniAR7rrOSfpCzuks4h,data/covers/house/0SzLniAR7rrOSfpCzuks4h.jpg,10 Years of Milk & Sugar (The Singles 1997 - 2007),2007-11-09,159cwGtgCzNpyHWY6tzihH,Milk & Sugar
+house,4qpEkHSW7KUAllw1SGn9w5,data/covers/house/4qpEkHSW7KUAllw1SGn9w5.jpg,The Album,2011-01-01,159cwGtgCzNpyHWY6tzihH,Milk & Sugar
+house,0K8M2mZeQsVd2WRJWT5s4I,data/covers/house/0K8M2mZeQsVd2WRJWT5s4I.jpg,20 Years of Milk & Sugar,2017-10-20,159cwGtgCzNpyHWY6tzihH,Milk & Sugar
+house,3U1wpggglqI2snjl5dyhO9,data/covers/house/3U1wpggglqI2snjl5dyhO9.jpg,IBIZA SYMPHONICA,2020-03-06,159cwGtgCzNpyHWY6tzihH,Milk & Sugar
+house,5r2qiQd3ss6hw9I7j6Qyn9,data/covers/house/5r2qiQd3ss6hw9I7j6Qyn9.jpg,Déepalma Soul Classics (Remixed),2026-02-06,159cwGtgCzNpyHWY6tzihH,Milk & Sugar
+house,1ztKoivQ2RHhcoRskrc2hz,data/covers/house/1ztKoivQ2RHhcoRskrc2hz.jpg,Alchemy,2017-04-07,44T94QQEc60Jf7kqGY6Rip,Lee Foss
+indie_rock,32bJgeIOAFiNkucTCje5O5,data/covers/indie_rock/32bJgeIOAFiNkucTCje5O5.jpg,Beach House,2006-10-03,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,6Unw8A3kdy8ZPj6MmlbA7E,data/covers/indie_rock/6Unw8A3kdy8ZPj6MmlbA7E.jpg,Devotion,2008-02-26,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,7ejB3MHdDNcY3GzRsQRAHs,data/covers/indie_rock/7ejB3MHdDNcY3GzRsQRAHs.jpg,Teen Dream,2010-01-25,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,600BVck2XflTAsEo0KhIfm,data/covers/indie_rock/600BVck2XflTAsEo0KhIfm.jpg,Bloom,2012-05-14,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,4SkZTSXdPpzTbf6C0m1UKv,data/covers/indie_rock/4SkZTSXdPpzTbf6C0m1UKv.jpg,Depression Cherry,2015-08-28,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,2LY64XcNbQ2bSjjsrbODlL,data/covers/indie_rock/2LY64XcNbQ2bSjjsrbODlL.jpg,Thank Your Lucky Stars,2015-10-16,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,1U2HNCQTbqtG7uKvgrXj3e,data/covers/indie_rock/1U2HNCQTbqtG7uKvgrXj3e.jpg,B-Sides and Rarities,2017-06-30,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,65bVa55LFhY4PLx0kg8LjW,data/covers/indie_rock/65bVa55LFhY4PLx0kg8LjW.jpg,7,2018-05-11,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,2eTxZYoqIv4MoLqwh73qvo,data/covers/indie_rock/2eTxZYoqIv4MoLqwh73qvo.jpg,Once Twice Melody,2022-02-18,56ZTgzPBDge0OvCGgMO3OY,Beach House
+indie_rock,2yNaksHgeMQM9Quse463b5,data/covers/indie_rock/2yNaksHgeMQM9Quse463b5.jpg,Is This It,2001-07-30,0epOFNiUfyON9EYx7Tpr6V,The Strokes
+indie_rock,3HFbH1loOUbqCyPsLuHLLh,data/covers/indie_rock/3HFbH1loOUbqCyPsLuHLLh.jpg,Room On Fire,2003-10-28,0epOFNiUfyON9EYx7Tpr6V,The Strokes
+indie_rock,1HQ61my1h3VWp2EBWKlp0n,data/covers/indie_rock/1HQ61my1h3VWp2EBWKlp0n.jpg,First Impressions Of Earth,2006-01-03,0epOFNiUfyON9EYx7Tpr6V,The Strokes
+indie_rock,6Jx4cGhWHewTcfKDJKguBQ,data/covers/indie_rock/6Jx4cGhWHewTcfKDJKguBQ.jpg,Angles,2011-03-21,0epOFNiUfyON9EYx7Tpr6V,The Strokes
+indie_rock,4WnkQO4xD9ljQooB3VIxCV,data/covers/indie_rock/4WnkQO4xD9ljQooB3VIxCV.jpg,Comedown Machine,2013-03-25,0epOFNiUfyON9EYx7Tpr6V,The Strokes
+indie_rock,2xkZV2Hl1Omi8rk2D7t5lN,data/covers/indie_rock/2xkZV2Hl1Omi8rk2D7t5lN.jpg,The New Abnormal,2020-04-10,0epOFNiUfyON9EYx7Tpr6V,The Strokes
+indie_rock,7o14zVcXSRk7clV6QCEdOD,data/covers/indie_rock/7o14zVcXSRk7clV6QCEdOD.jpg,Slanted & Enchanted,1992-04-20,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,3j8cIhlKe44KAz4JWMz2th,data/covers/indie_rock/3j8cIhlKe44KAz4JWMz2th.jpg,Westing (By Musket And Sextant),1993-03-22,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,1XFNz6KIvLyIsLFOiLRKqP,data/covers/indie_rock/1XFNz6KIvLyIsLFOiLRKqP.jpg,"Crooked Rain, Crooked Rain",1994-02-14,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,0OHDiDMyxzWJfwtoeHNCf4,data/covers/indie_rock/0OHDiDMyxzWJfwtoeHNCf4.jpg,Wowee Zowee,1995-04-11,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,1Q6ikDUK4RFtLI3N9Lll9h,data/covers/indie_rock/1Q6ikDUK4RFtLI3N9Lll9h.jpg,Brighten the Corners,1997-02-11,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,6LvzAzZDazPb9hKNjj1JRN,data/covers/indie_rock/6LvzAzZDazPb9hKNjj1JRN.jpg,Terror Twilight,1999-06-08,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,4qV3ueP3Bau6i4kdWQZm2U,data/covers/indie_rock/4qV3ueP3Bau6i4kdWQZm2U.jpg,Slanted & Enchanted: Luxe & Reduxe,2002-10-22,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,2z8iibF0hCuBb9h9gYkuO7,data/covers/indie_rock/2z8iibF0hCuBb9h9gYkuO7.jpg,Brighten the Corners: Nicene Creedence Ed.,2008-12-09,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,7MDsvCR0EE39k31kPbgojR,data/covers/indie_rock/7MDsvCR0EE39k31kPbgojR.jpg,Terror Twilight: Farewell Horizontal,2022-04-08,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,4kJQd3cPlfhNt3fHbWjCxX,data/covers/indie_rock/4kJQd3cPlfhNt3fHbWjCxX.jpg,Pavements (Original Motion Picture Soundtrack),2025-05-30,3inCNiUr4R6XQ3W43s9Aqi,Pavement
+indie_rock,6LqvHLyHq3tdfsUcznmUK1,data/covers/indie_rock/6LqvHLyHq3tdfsUcznmUK1.jpg,Hecklers Choice: Big Gums and Heavy Lifters - A Pavement Collection,2025-09-18,3inCNiUr4R6XQ3W43s9Aqi,Pavement
 indie_rock,1P0e2LCGaKo1MSvCRcAZTf,data/covers/indie_rock/1P0e2LCGaKo1MSvCRcAZTf.jpg,Antidotes,2008-03-21,6FQqZYVfTNQ1pCqfkwVFEa,Foals
 indie_rock,670h50t8E3LwP2bGqxGi6E,data/covers/indie_rock/670h50t8E3LwP2bGqxGi6E.jpg,Total Life Forever,2010-05-10,6FQqZYVfTNQ1pCqfkwVFEa,Foals
 indie_rock,6SBkXTPlJ3oEaFwRm5o2lD,data/covers/indie_rock/6SBkXTPlJ3oEaFwRm5o2lD.jpg,Holy Fire,2013-02-08,6FQqZYVfTNQ1pCqfkwVFEa,Foals
@@ -134,40 +161,37 @@ indie_rock,0RyCpIKlCV0kgEuzrmp73O,data/covers/indie_rock/0RyCpIKlCV0kgEuzrmp73O.
 indie_rock,6uVaLj0YV3mWRFUw4xJ6eR,data/covers/indie_rock/6uVaLj0YV3mWRFUw4xJ6eR.jpg,Everything Not Saved Will Be Lost Part I,2019-03-08,6FQqZYVfTNQ1pCqfkwVFEa,Foals
 indie_rock,3tXNwhv4GZQDHCOb4p5kcS,data/covers/indie_rock/3tXNwhv4GZQDHCOb4p5kcS.jpg,Everything Not Saved Will Be Lost Part II,2019-10-18,6FQqZYVfTNQ1pCqfkwVFEa,Foals
 indie_rock,7CBK26TFXHyt2l6NQcXIsq,data/covers/indie_rock/7CBK26TFXHyt2l6NQcXIsq.jpg,Life Is Yours,2022-06-17,6FQqZYVfTNQ1pCqfkwVFEa,Foals
-indie_rock,2Cq6fg3YX4wYCDLjAVG7ZO,data/covers/indie_rock/2Cq6fg3YX4wYCDLjAVG7ZO.jpg,Alles nix konkretes,2016-03-18,23xqmJEN3oVxwzqtNIyR5m,AnnenMayKantereit
-indie_rock,3zhOW5DedpxAxddYJ18qiI,data/covers/indie_rock/3zhOW5DedpxAxddYJ18qiI.jpg,Schlagschatten,2018-12-07,23xqmJEN3oVxwzqtNIyR5m,AnnenMayKantereit
-indie_rock,1fO13XO7GjFNni70YWjFIP,data/covers/indie_rock/1fO13XO7GjFNni70YWjFIP.jpg,12,2020-11-16,23xqmJEN3oVxwzqtNIyR5m,AnnenMayKantereit
-indie_rock,0GyLgE1cRLcOUfsnhRplXI,data/covers/indie_rock/0GyLgE1cRLcOUfsnhRplXI.jpg,Es ist Abend und wir sitzen bei mir,2023-03-03,23xqmJEN3oVxwzqtNIyR5m,AnnenMayKantereit
-jazz,1UByqmu9vBqPbwpKvkp3ym,data/covers/jazz/1UByqmu9vBqPbwpKvkp3ym.jpg,Miles Davis Jazz Monument,2021-10-13,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,4azAhfbHwoQWVJmpkreKiB,data/covers/jazz/4azAhfbHwoQWVJmpkreKiB.jpg,Vaults,2022-05-09,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,6dECrOGkeOBQKweHYip6r6,data/covers/jazz/6dECrOGkeOBQKweHYip6r6.jpg,On Savoy: Charlie Parker & Miles Davis,2022-11-04,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,4vRbGMTJN701hCtl3A3uv2,data/covers/jazz/4vRbGMTJN701hCtl3A3uv2.jpg,Tune Up,2023-05-07,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,7AzHSPo0djoJRwpnuHIyjm,data/covers/jazz/7AzHSPo0djoJRwpnuHIyjm.jpg,Blue 'n' Boogie,2023-05-07,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,7fbW86CqM8L2orKkAPXmC4,data/covers/jazz/7fbW86CqM8L2orKkAPXmC4.jpg,Birth of the Blue,2024-12-20,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,16cOIJcGCSl6UAqh0K8Ygi,data/covers/jazz/16cOIJcGCSl6UAqh0K8Ygi.jpg,A Night of Miles Davis,2025-03-15,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,4a7koXxTqak4eW4K5WYE5n,data/covers/jazz/4a7koXxTqak4eW4K5WYE5n.jpg,A Catalogue of Jazz: Miles Davis,2026-01-15,0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis
-jazz,0DQhSShfCT9xZyA2LqG02Q,data/covers/jazz/0DQhSShfCT9xZyA2LqG02Q.jpg,Tandem,2016-09-30,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,2221mPPi9Hcd2AQQBBQ5ab,data/covers/jazz/2221mPPi9Hcd2AQQBBQ5ab.jpg,Oslo,2018-03-23,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,6HHbIMi4Hk5wyjGVm4jZb2,data/covers/jazz/6HHbIMi4Hk5wyjGVm4jZb2.jpg,4 Wheel Drive,2019-03-15,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,1s27PprVQ7RNFHxsWa6RhQ,data/covers/jazz/1s27PprVQ7RNFHxsWa6RhQ.jpg,Mondenkind,2020-09-25,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,4IStAnJ6JI7ivJY8IGpTOW,data/covers/jazz/4IStAnJ6JI7ivJY8IGpTOW.jpg,XXXX,2021-04-30,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,6xBwCb1Haucxf2AqICSw0v,data/covers/jazz/6xBwCb1Haucxf2AqICSw0v.jpg,Heinrich Heine - Traumbilder,2021-10-29,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,45PoiD0fgKLoAtC8oUVMMO,data/covers/jazz/45PoiD0fgKLoAtC8oUVMMO.jpg,Ghosts,2022-09-30,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,6sPX5k3R9v6prRyG3HSttD,data/covers/jazz/6sPX5k3R9v6prRyG3HSttD.jpg,4 Wheel Drive II,2023-09-29,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,715pqfRNpbKnPKnfFZkdid,data/covers/jazz/715pqfRNpbKnPKnfFZkdid.jpg,Duo,2024-01-26,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,03ZO6VVn5QwpWTM7F8QtPJ,data/covers/jazz/03ZO6VVn5QwpWTM7F8QtPJ.jpg,Jazz at Berlin Philharmonic XVI: Piano Night II,2025-06-27,7MbjIv3XpMc2ciNcoWHFcS,Michael Wollny
-jazz,780YbUDX22mHli9KRZZwKu,data/covers/jazz/780YbUDX22mHli9KRZZwKu.jpg,Billie Holiday With Ray Ellis And His Orchestra,1959-07-01,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,15W65m2fh1vySMFMknXHPK,data/covers/jazz/15W65m2fh1vySMFMknXHPK.jpg,Lady Love (Billie's Blues),1962-01-01,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,0O75uNgYIEYXHfEiC1bUWY,data/covers/jazz/0O75uNgYIEYXHfEiC1bUWY.jpg,Easy to Remember,1966-07-21,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,0jSqB8pOLuxxZLuoUyq6K4,data/covers/jazz/0jSqB8pOLuxxZLuoUyq6K4.jpg,An Evening with Lady Day,1973-01-12,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,5jrwZleuoWBbH4AAg752qG,data/covers/jazz/5jrwZleuoWBbH4AAg752qG.jpg,Don't Explain,1982-01-17,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,6lHEbj0b4iTgz7DRWXo2av,data/covers/jazz/6lHEbj0b4iTgz7DRWXo2av.jpg,God Bless The Child,1985-01-01,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,5vcTJSZkU3NqZEIv3BSHKq,data/covers/jazz/5vcTJSZkU3NqZEIv3BSHKq.jpg,Road to Love,2020-04-16,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,4l8VtXdog2RC65BdpER9gh,data/covers/jazz/4l8VtXdog2RC65BdpER9gh.jpg,Billie and Stan,2022-01-17,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,4eJ3FvJzSKUNJQ4lVecA7J,data/covers/jazz/4eJ3FvJzSKUNJQ4lVecA7J.jpg,Autumn in New York,2022-04-05,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,4zi7H3nOP21xLse1QeSUJR,data/covers/jazz/4zi7H3nOP21xLse1QeSUJR.jpg,Songs for Lovers,2022-04-06,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,1q9Yh4EDALgMa8VYsI7bn5,data/covers/jazz/1q9Yh4EDALgMa8VYsI7bn5.jpg,All Or Nothing At All,,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
-jazz,4MH39TSKNijXly27EtMiLJ,data/covers/jazz/4MH39TSKNijXly27EtMiLJ.jpg,Remixed & Reimagined,,1YzCsTRb22dQkh9lghPIrp,Billie Holiday
+jazz,0GxMH1Xgx3pMzN37aoTGaJ,data/covers/jazz/0GxMH1Xgx3pMzN37aoTGaJ.jpg,Concert of the Century - A Tribute to Charlie Parker,2016-11-11,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,1XBSWrYw6TUVAVSOz2GVs4,data/covers/jazz/1XBSWrYw6TUVAVSOz2GVs4.jpg,"All Time Jazz: Dizzy Gillespie, Vol. 1",2017-07-28,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,65O0PvzOhU8tqxCp00TwXU,data/covers/jazz/65O0PvzOhU8tqxCp00TwXU.jpg,Simply... Dizzy!,2020-09-11,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,4SB4wVfmbtN7IcF0JkchY7,data/covers/jazz/4SB4wVfmbtN7IcF0JkchY7.jpg,On Savoy: Dizzy Gillespie,2022-10-21,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,3QMhme9YCUZc55frc8EQdv,data/covers/jazz/3QMhme9YCUZc55frc8EQdv.jpg,On The Sunny Side Of 52nd Street,2023-02-17,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,4DGCvMqJxwiFCFowSIVz8v,data/covers/jazz/4DGCvMqJxwiFCFowSIVz8v.jpg,In Concert,2024-09-06,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,7fLwn5NEYb1ieJ5QjHrvfC,data/covers/jazz/7fLwn5NEYb1ieJ5QjHrvfC.jpg,Plays The Blues,2025-12-03,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,0EQxCQA72TvrOu2YF6nxJy,data/covers/jazz/0EQxCQA72TvrOu2YF6nxJy.jpg,Dizzy Gillespie: A Night in Chicago,2026-05-01,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,6U5vxEfbOSUPoHiiBOB1L7,data/covers/jazz/6U5vxEfbOSUPoHiiBOB1L7.jpg,"All that Jazz, Vol. 150: Bebop meets Blues - A Jazz Summit on 78 rpm",,5RzjqfPS0Bu4bUMkyNNDpn,Dizzy Gillespie
+jazz,47DVuCeSX5ZEJBjv88TJ8Q,data/covers/jazz/47DVuCeSX5ZEJBjv88TJ8Q.jpg,Love Stories,2003-08-11,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,7FjYrxVwiDEC4VTfDbiAeo,data/covers/jazz/7FjYrxVwiDEC4VTfDbiAeo.jpg,Bouncing with Bud,2005-11-11,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,4p354VnC5N2sxacZpZgRPn,data/covers/jazz/4p354VnC5N2sxacZpZgRPn.jpg,Smile,2006-01-31,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,4ovfTX9oAMcIlt2HDIjim1,data/covers/jazz/4ovfTX9oAMcIlt2HDIjim1.jpg,Evergreens,2007-11-13,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,6rm1xjBxti4u3EsY3eopHH,data/covers/jazz/6rm1xjBxti4u3EsY3eopHH.jpg,Rolf Kuhn and His Sound of Jazz,2010-08-03,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,17Jk6yk8UbNOgInqXDCUVO,data/covers/jazz/17Jk6yk8UbNOgInqXDCUVO.jpg,Rolf Kuhn & Tri-O: Close Up,2010-11-16,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,2jOugQNe2yOupy0enzKOfv,data/covers/jazz/2jOugQNe2yOupy0enzKOfv.jpg,Symphonic Swampfire,2014-01-31,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,5XzXkw96kKCXo8IJi7bha1,data/covers/jazz/5XzXkw96kKCXo8IJi7bha1.jpg,Meet Horst Jankowski,2014-05-09,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,13PQtWGhhTIVS8i2SOCrLy,data/covers/jazz/13PQtWGhhTIVS8i2SOCrLy.jpg,Stop Time!,2014-10-24,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,1wD88vGiv0rowZnaXLojJV,data/covers/jazz/1wD88vGiv0rowZnaXLojJV.jpg,Perrak,2014-11-28,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,4lfw4Ze9FHFNhNhL3qPIss,data/covers/jazz/4lfw4Ze9FHFNhNhL3qPIss.jpg,Stereo,2015-04-24,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,0tsAeMIOpK5bibfsC9w9Gt,data/covers/jazz/0tsAeMIOpK5bibfsC9w9Gt.jpg,Spotlights,2016-09-30,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,4HENgrWOdYVohdxPJXIK0H,data/covers/jazz/4HENgrWOdYVohdxPJXIK0H.jpg,Yellow + Blue,2018-06-01,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,6wdM2vf9gR6VfwYG0iktt1,data/covers/jazz/6wdM2vf9gR6VfwYG0iktt1.jpg,Fearless,2024-12-06,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,2nRyHb8QJFA0Xsp7y1ndUA,data/covers/jazz/2nRyHb8QJFA0Xsp7y1ndUA.jpg,Inside Out,,73xPAo16RiiVu6X90p7UVb,Rolf Kühn
+jazz,6lSOhe2lVDiEHE4AUNbMwl,data/covers/jazz/6lSOhe2lVDiEHE4AUNbMwl.jpg,Duets,2022-01-26,19eLuQmk9aCobbVDHc6eek,Louis Armstrong
+jazz,24bw7vxy5R6p8lffKu3ql4,data/covers/jazz/24bw7vxy5R6p8lffKu3ql4.jpg,Playin' and Singin',2022-03-29,19eLuQmk9aCobbVDHc6eek,Louis Armstrong
+jazz,04ORJ1LJGpY0rUMB6sqavw,data/covers/jazz/04ORJ1LJGpY0rUMB6sqavw.jpg,Playin' and Singin' Volume II,2022-04-07,19eLuQmk9aCobbVDHc6eek,Louis Armstrong
+jazz,4lB6VBbvMHJTh36Mlocqpw,data/covers/jazz/4lB6VBbvMHJTh36Mlocqpw.jpg,Louis by Louis,2022-04-28,19eLuQmk9aCobbVDHc6eek,Louis Armstrong
+jazz,2GoGbCicW0q7sycH0qWel3,data/covers/jazz/2GoGbCicW0q7sycH0qWel3.jpg,Vaults,2022-04-29,19eLuQmk9aCobbVDHc6eek,Louis Armstrong
+jazz,7HfR8TYf8vFXJRHw16dKup,data/covers/jazz/7HfR8TYf8vFXJRHw16dKup.jpg,February 7th. 1959 Nederland (Restauración 2022),2022-07-25,19eLuQmk9aCobbVDHc6eek,Louis Armstrong
+jazz,3A2fZrIyCHutH5BYQjfvId,data/covers/jazz/3A2fZrIyCHutH5BYQjfvId.jpg,Louis Armstrong New Mono to Stereo Mixes,2025-04-19,19eLuQmk9aCobbVDHc6eek,Louis Armstrong
 metal,4MCyfIlCbqoU8wg2F3hMw3,data/covers/metal/4MCyfIlCbqoU8wg2F3hMw3.jpg,United Abominations,2007-05-15,1Yox196W7bzVNZI7RBaPnf,Megadeth
 metal,0ncpKwYq9C3tXxDWPpdvId,data/covers/metal/0ncpKwYq9C3tXxDWPpdvId.jpg,Endgame,2009-09-09,1Yox196W7bzVNZI7RBaPnf,Megadeth
 metal,0ja6Rjg1a5Fw2IEwTymwQE,data/covers/metal/0ja6Rjg1a5Fw2IEwTymwQE.jpg,Th1rt3en,2011-10-26,1Yox196W7bzVNZI7RBaPnf,Megadeth
@@ -176,65 +200,69 @@ metal,4sP7CAPrmdBD1ojBBrPxiV,data/covers/metal/4sP7CAPrmdBD1ojBBrPxiV.jpg,Dystop
 metal,1fQP14KigA58xjlYNf4Uac,data/covers/metal/1fQP14KigA58xjlYNf4Uac.jpg,Killing Is My Business...And Business Is Good - The Final Kill,2018-06-08,1Yox196W7bzVNZI7RBaPnf,Megadeth
 metal,1ziUtOuRT545OI4cnHEMhC,data/covers/metal/1ziUtOuRT545OI4cnHEMhC.jpg,"The Sick, The Dying… And The Dead!",2022-09-02,1Yox196W7bzVNZI7RBaPnf,Megadeth
 metal,6ouAFvDtaYWB7PdGaRtJGq,data/covers/metal/6ouAFvDtaYWB7PdGaRtJGq.jpg,Megadeth,2026-01-23,1Yox196W7bzVNZI7RBaPnf,Megadeth
-metal,3QCq4xwC3SZp38Y2cBsHdI,data/covers/metal/3QCq4xwC3SZp38Y2cBsHdI.jpg,Dehumanizer,1992-06-22,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath
-metal,4fDHjACriolezsa056K1SC,data/covers/metal/4fDHjACriolezsa056K1SC.jpg,Reunion,1998-10-05,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath
-metal,5WXL9YjbNd4GIqWc9mZOOq,data/covers/metal/5WXL9YjbNd4GIqWc9mZOOq.jpg,13,2013-01-01,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath
-metal,4Z72dQCd2SdhKHAWTcUtK9,data/covers/metal/4Z72dQCd2SdhKHAWTcUtK9.jpg,Forbidden (2024 Tony Iommi Remix),2024-05-31,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath
-metal,6khFoLWnJZDQvZ7Pijym3b,data/covers/metal/6khFoLWnJZDQvZ7Pijym3b.jpg,Leviathan,2004-08-31,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,1jEzsqPzCsBtkdBOKseLy9,data/covers/metal/1jEzsqPzCsBtkdBOKseLy9.jpg,Call of the Mastodon,2006-02-07,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,1n8QZFcwx5aQ2LIIlj0iYe,data/covers/metal/1n8QZFcwx5aQ2LIIlj0iYe.jpg,Blood Mountain,2006-09-08,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,1PadLnQYelMqqSlPbSEWZ1,data/covers/metal/1PadLnQYelMqqSlPbSEWZ1.jpg,The Hunter,2011-09-23,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,7mEkBi9a2p2f1WQbnH8Qk5,data/covers/metal/7mEkBi9a2p2f1WQbnH8Qk5.jpg,Once More 'Round the Sun,2014-06-17,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,1VzmKgEG38fsUBZVe15wuF,data/covers/metal/1VzmKgEG38fsUBZVe15wuF.jpg,Emperor of Sand,2017-03-31,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,3xeGtowrXCRjPOmZahNAoW,data/covers/metal/3xeGtowrXCRjPOmZahNAoW.jpg,Medium Rarities,2020-09-11,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,5xnZl7sdxxIb4rkDcbD4IC,data/covers/metal/5xnZl7sdxxIb4rkDcbD4IC.jpg,Hushed and Grim,2021-10-29,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-metal,2cyPixuhzJiiOzTClfodlN,data/covers/metal/2cyPixuhzJiiOzTClfodlN.jpg,Crack the Skye,,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon
-reggae,6VpeTKdpRKXmj06EowQ6BG,data/covers/reggae/6VpeTKdpRKXmj06EowQ6BG.jpg,Dennis Brown Sings Studio 1 Hits,2012-01-30,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,64ZrhtjCv9Jl28bII027qw,data/covers/reggae/64ZrhtjCv9Jl28bII027qw.jpg,Massive Hits,2013-11-18,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,0aP2vFeDpk9HqTq2BDG7Hg,data/covers/reggae/0aP2vFeDpk9HqTq2BDG7Hg.jpg,Dennis Brown Playlist,2014-10-17,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,5xw30XjxuakMwpgXnyMGR0,data/covers/reggae/5xw30XjxuakMwpgXnyMGR0.jpg,Dennis Brown in Dub Playlist,2014-10-21,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,73assrX4ggAkLf2RZXLoQV,data/covers/reggae/73assrX4ggAkLf2RZXLoQV.jpg,Dennis Brown Super Hits,2015-09-27,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,56EOHWfs2d5zyPFZYfwgfu,data/covers/reggae/56EOHWfs2d5zyPFZYfwgfu.jpg,Gussie Clarke Classics,2024-11-15,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,7fH2wNj52IMMUMUyLQbFsT,data/covers/reggae/7fH2wNj52IMMUMUyLQbFsT.jpg,Judge Not,2025-05-02,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,4uhbfpBvqjThYsTKJBKWMY,data/covers/reggae/4uhbfpBvqjThYsTKJBKWMY.jpg,Legit,2025-05-02,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,3mFU7Nnazc6KLzoLgzxpPo,data/covers/reggae/3mFU7Nnazc6KLzoLgzxpPo.jpg,Superstar Hit Parade,2025-11-14,0UmBaQJflaHddKtf1lrA6F,Dennis Brown
-reggae,2nRxN8VVwnALKYjmqSyv8C,data/covers/reggae/2nRxN8VVwnALKYjmqSyv8C.jpg,Reggaestration,2005-01-01,1YdrZulwIjwmprgY7sH2d3,Iriepathie
-reggae,0gZqyWqMozB0MEnLbBrvaq,data/covers/reggae/0gZqyWqMozB0MEnLbBrvaq.jpg,45,2007-01-01,1YdrZulwIjwmprgY7sH2d3,Iriepathie
-reggae,0lcakbHrxo1ui9aEF92L2K,data/covers/reggae/0lcakbHrxo1ui9aEF92L2K.jpg,Runde 3,2010-04-23,1YdrZulwIjwmprgY7sH2d3,Iriepathie
-reggae,3kiOuajwT3UBDEiVQuw52J,data/covers/reggae/3kiOuajwT3UBDEiVQuw52J.jpg,Aufwiederhören,2013-10-11,1YdrZulwIjwmprgY7sH2d3,Iriepathie
-reggae,4MlBSBN8KZqVOLIsaw0276,data/covers/reggae/4MlBSBN8KZqVOLIsaw0276.jpg,Caught You,1980-01-01,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,3BVtphNjEG5djS7JKPhn7T,data/covers/reggae/3BVtphNjEG5djS7JKPhn7T.jpg,Babylon the Bandit,1985-11-19,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,2lXhiz3K9rQHGSczsgpDnk,data/covers/reggae/2lXhiz3K9rQHGSczsgpDnk.jpg,State Of Emergency,1988-01-01,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,1BakpSZHAhyOXKGVRZrtSB,data/covers/reggae/1BakpSZHAhyOXKGVRZrtSB.jpg,Victims,1991-01-01,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,5svvxTXVGqKZCirydpqNHW,data/covers/reggae/5svvxTXVGqKZCirydpqNHW.jpg,Vex,1994-09-27,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,6qPG09ioBMVTcgJSZpuCY8,data/covers/reggae/6qPG09ioBMVTcgJSZpuCY8.jpg,True Democracy,2005-02-08,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,1h5jSwgEiUDx58MiBFVTgV,data/covers/reggae/1h5jSwgEiUDx58MiBFVTgV.jpg,Earth Crisis,2005-06-07,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,3AO4vXjxeUdvMio4WiEsTU,data/covers/reggae/3AO4vXjxeUdvMio4WiEsTU.jpg,African Holocaust,2009-05-25,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,53zpfea0HOctci16oWi2MN,data/covers/reggae/53zpfea0HOctci16oWi2MN.jpg,Rage And Fury,2009-05-25,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,2hDeQ5pM8TUZowDsv6IDJv,data/covers/reggae/2hDeQ5pM8TUZowDsv6IDJv.jpg,Mass Manipulation,2019-05-17,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-reggae,5jncMbvgwmbA01iaMMcA1Q,data/covers/reggae/5jncMbvgwmbA01iaMMcA1Q.jpg,Tribute To The Martyrs,,6UL7BodGc5iVmQGlMwHR0g,Steel Pulse
-techno,6PPwJG0fr8pjLlll9fGdTd,data/covers/techno/6PPwJG0fr8pjLlll9fGdTd.jpg,Second Sign,2005-04-11,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,557avvtJZBXzv2oHQdo9dR,data/covers/techno/557avvtJZBXzv2oHQdo9dR.jpg,Global Underground #38: Carl Cox - Black Rock Desert (DJ Mix),2010-01-31,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,6p5qiYillRycbleqmPUR53,data/covers/techno/6p5qiYillRycbleqmPUR53.jpg,All Roads Lead to the Dancefloor,2012-05-28,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,5CnakIH6dOCjjYpSs92C40,data/covers/techno/5CnakIH6dOCjjYpSs92C40.jpg,Pure Intec 2 Mixed by Carl Cox & Jon Rundell,2013-04-29,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,2faoYAyD0bd9wjcYswREJl,data/covers/techno/2faoYAyD0bd9wjcYswREJl.jpg,All Roads Lead to the Dance Floor - Remixes,2013-11-04,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,5ZzupRXqPVC8P9h9SoLHVm,data/covers/techno/5ZzupRXqPVC8P9h9SoLHVm.jpg,Pure Intec 3 (Mixed by Carl Cox & Jon Rundell),2016-11-11,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,6CjCW4jVic7gvaYPrfkGNG,data/covers/techno/6CjCW4jVic7gvaYPrfkGNG.jpg,Pure Intec 4 (Mixed by Carl Cox & Jon Rundell),2019-04-19,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,1NiChbFoAksbJOBqvlh4Lw,data/covers/techno/1NiChbFoAksbJOBqvlh4Lw.jpg,Carl Cox Mixes Awesome Soundwave,2020-08-28,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,1i1YhjgmYXLUowvfIgDs0Z,data/covers/techno/1i1YhjgmYXLUowvfIgDs0Z.jpg,"Sand, Moon & Stars (Remixes)",2021-08-20,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,15XrNU8AkmvwmGkoi6sLSs,data/covers/techno/15XrNU8AkmvwmGkoi6sLSs.jpg,Electronic Generations,2022-12-02,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,3eBdYYK6219bELd0YzRgTu,data/covers/techno/3eBdYYK6219bELd0YzRgTu.jpg,International Techno Vol 1,2023-09-29,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,6BKZ0V0j3QLAlYyWi5Lp2G,data/covers/techno/6BKZ0V0j3QLAlYyWi5Lp2G.jpg,International Techno Vol 2,2023-11-24,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,7aQGMHk6KegKZWR2QFvSo3,data/covers/techno/7aQGMHk6KegKZWR2QFvSo3.jpg,Animal Farm (Soundtrack From The Angel Film),2026-05-01,19SmlbABtI4bXz864MLqOS,Carl Cox
-techno,0CglzaLAkM2pXC29VSYlBT,data/covers/techno/0CglzaLAkM2pXC29VSYlBT.jpg,Future History,2004-03-01,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,01z2s72phWU6sHlz9rF8zO,data/covers/techno/01z2s72phWU6sHlz9rF8zO.jpg,From A Deep Place,2007-05-25,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,6dRe9EXoPnbd41eR5oME7V,data/covers/techno/6dRe9EXoPnbd41eR5oME7V.jpg,Nobody Knows,2014-11-17,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,4aTt5hanGCs5zZAvpeznL5,data/covers/techno/4aTt5hanGCs5zZAvpeznL5.jpg,Nobody Knows Remixes,2015-05-19,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,4ykiA59HEv4gwYiDWW4UF0,data/covers/techno/4ykiA59HEv4gwYiDWW4UF0.jpg,Four,2019-11-15,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,5A0oz8lVSBUBM9VfC4lTGw,data/covers/techno/5A0oz8lVSBUBM9VfC4lTGw.jpg,Global Underground #43: Joris Voorn - Rotterdam (Unmixed),2020-12-11,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,2FDiENkO4Jt7PtIfurC2MY,data/covers/techno/2FDiENkO4Jt7PtIfurC2MY.jpg,Global Underground #43: Joris Voorn - Rotterdam (The Exclusive Originals),2021-01-22,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,7C9sYJJ4s7YnIKs7WxLOl2,data/covers/techno/7C9sYJJ4s7YnIKs7WxLOl2.jpg,Serotonin,2025-07-18,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,3Fbondj1sVlwzDSQcYNwrC,data/covers/techno/3Fbondj1sVlwzDSQcYNwrC.jpg,Melatonin,2026-03-13,4jGpKAmwvU263l0tUh4xKU,Joris Voorn
-techno,4ZObfs58rBNGWA9ZA4kvDM,data/covers/techno/4ZObfs58rBNGWA9ZA4kvDM.jpg,Ignition Key,2002-09-25,1btv9qmIpbp7q1ixCYNdHu,Adam Beyer
-techno,1Kb8RQgDMTvILJpUynTMsb,data/covers/techno/1Kb8RQgDMTvILJpUynTMsb.jpg,fabric 22: Adam Beyer (DJ Mix),2005-05-01,1btv9qmIpbp7q1ixCYNdHu,Adam Beyer
-techno,7jvBgKQK4ALnqRoxGQbktc,data/covers/techno/7jvBgKQK4ALnqRoxGQbktc.jpg,Explorer Vol. 1,2025-07-11,1btv9qmIpbp7q1ixCYNdHu,Adam Beyer
+metal,31pVN7QZwfWFo388SICgnd,data/covers/metal/31pVN7QZwfWFo388SICgnd.jpg,Divine Intervention,1994-01-01,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,743y70pTrfEfHZHtIyyQ6c,data/covers/metal/743y70pTrfEfHZHtIyyQ6c.jpg,Undisputed Attitude,1996-01-01,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,2YKQekIfxPZK0O2XKw6wr6,data/covers/metal/2YKQekIfxPZK0O2XKw6wr6.jpg,Diabolus In Musica,1998-01-01,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,3MuaoZgcAFuanhg04e75LK,data/covers/metal/3MuaoZgcAFuanhg04e75LK.jpg,God Hates Us All,2001-01-01,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,41dQQuob8FPy5zWGg4vLXU,data/covers/metal/41dQQuob8FPy5zWGg4vLXU.jpg,Christ Illusion,2006-01-01,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,44MTd2OAtSYY63DCcQ7P8n,data/covers/metal/44MTd2OAtSYY63DCcQ7P8n.jpg,World Painted Blood,2009-01-01,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,5QTGKCuJbyViaQQXjHOvjL,data/covers/metal/5QTGKCuJbyViaQQXjHOvjL.jpg,Repentless,2015-09-11,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,5criweFcDEpgMJBOVSu9FE,data/covers/metal/5criweFcDEpgMJBOVSu9FE.jpg,Praying To Satan,2019-04-05,1IQ2e1buppatiN1bxUVkrk,Slayer
+metal,74QPd1WqK8kTsVNtHdBzJ8,data/covers/metal/74QPd1WqK8kTsVNtHdBzJ8.jpg,Ghost Reveries,2005-08-30,0ybFZ2Ab08V8hueghSXm6E,Opeth
+metal,3U9TW9thOm1cyLBD0NEy3s,data/covers/metal/3U9TW9thOm1cyLBD0NEy3s.jpg,The Roundhouse Tapes,2007-11-05,0ybFZ2Ab08V8hueghSXm6E,Opeth
+metal,6I6rZw3H59ka6nDYsXcpDC,data/covers/metal/6I6rZw3H59ka6nDYsXcpDC.jpg,Heritage,2011-09-20,0ybFZ2Ab08V8hueghSXm6E,Opeth
+metal,0DLImjuzdrOBQKtYLlf3C5,data/covers/metal/0DLImjuzdrOBQKtYLlf3C5.jpg,Pale Communion,2014-08-25,0ybFZ2Ab08V8hueghSXm6E,Opeth
+metal,1hwMH9WoeNvvsH0KOiB994,data/covers/metal/1hwMH9WoeNvvsH0KOiB994.jpg,Deliverance & Damnation Remixed,2015-10-30,0ybFZ2Ab08V8hueghSXm6E,Opeth
+metal,5C9NGMglNH5vNC2bV1JqlU,data/covers/metal/5C9NGMglNH5vNC2bV1JqlU.jpg,Sorceress,2016-09-30,0ybFZ2Ab08V8hueghSXm6E,Opeth
+metal,5B0Q6E4cZWSMHebvceCcFx,data/covers/metal/5B0Q6E4cZWSMHebvceCcFx.jpg,In Cauda Venenum,2019-09-27,0ybFZ2Ab08V8hueghSXm6E,Opeth
+metal,1f2Q8urIhVZiuPSiNLcQG6,data/covers/metal/1f2Q8urIhVZiuPSiNLcQG6.jpg,The Last Will And Testament,2024-11-22,0ybFZ2Ab08V8hueghSXm6E,Opeth
+reggae,0K9oJKr8cOfWfdT33y3L9b,data/covers/reggae/0K9oJKr8cOfWfdT33y3L9b.jpg,Bush Doctor,1988-10-31,0oea1hwGMfUxZbLxJc1XUN,Peter Tosh
+reggae,3yNAfcLl7YxaMiUJT4GLDd,data/covers/reggae/3yNAfcLl7YxaMiUJT4GLDd.jpg,No Nuclear War,2002-07-30,0oea1hwGMfUxZbLxJc1XUN,Peter Tosh
+reggae,18s7KUeencxiAsv7ths3jK,data/covers/reggae/18s7KUeencxiAsv7ths3jK.jpg,Wanted Dread and Alive,2002-07-30,0oea1hwGMfUxZbLxJc1XUN,Peter Tosh
+reggae,0vTWrXdKO4SijjSYCUIuTK,data/covers/reggae/0vTWrXdKO4SijjSYCUIuTK.jpg,Mystic Man,2003-02-28,0oea1hwGMfUxZbLxJc1XUN,Peter Tosh
+reggae,6LzmieJfMl1TYgIwCS5eC0,data/covers/reggae/6LzmieJfMl1TYgIwCS5eC0.jpg,The Ultimate Peter Tosh Experience,2009-02-09,0oea1hwGMfUxZbLxJc1XUN,Peter Tosh
+reggae,6NFP57KI9KUmE5tTU29xWi,data/covers/reggae/6NFP57KI9KUmE5tTU29xWi.jpg,Watchman Of The City,2023-11-14,6QHu71f8LLeT8n0GzfbYFc,Gregory Isaacs
+reggae,33gAXbWQPDa6qBtY7od2x5,data/covers/reggae/33gAXbWQPDa6qBtY7od2x5.jpg,...A Touch of Class,2023-12-08,6QHu71f8LLeT8n0GzfbYFc,Gregory Isaacs
+reggae,1Il7FeqE0654j2koP0iPrk,data/covers/reggae/1Il7FeqE0654j2koP0iPrk.jpg,Lovely Lady,2024-10-15,6QHu71f8LLeT8n0GzfbYFc,Gregory Isaacs
+reggae,1p8qSK9EyUtOjeU1FktWPV,data/covers/reggae/1p8qSK9EyUtOjeU1FktWPV.jpg,"The African Museum + Tad's Collection, Vol.3",2025-06-27,6QHu71f8LLeT8n0GzfbYFc,Gregory Isaacs
+reggae,73tFZIcscoboHKlIST1mD1,data/covers/reggae/73tFZIcscoboHKlIST1mD1.jpg,Gussie Clarke's Rumours Riddim,2025-10-17,6QHu71f8LLeT8n0GzfbYFc,Gregory Isaacs
+reggae,2o6CVmYrzG1BDGMztOf1Bh,data/covers/reggae/2o6CVmYrzG1BDGMztOf1Bh.jpg,Talk Don't Bother Me,2025-11-28,6QHu71f8LLeT8n0GzfbYFc,Gregory Isaacs
+reggae,57qhXJwUjUXPopcPkF87JV,data/covers/reggae/57qhXJwUjUXPopcPkF87JV.jpg,Love Songs: The Gussie Clarke Years,2026-04-17,6QHu71f8LLeT8n0GzfbYFc,Gregory Isaacs
+reggae,4IrSj4zF1RlodgkiGH19fo,data/covers/reggae/4IrSj4zF1RlodgkiGH19fo.jpg,Dub Vibration,1990-01-01,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,3QMjg0as7BNJKlxyuSHSnW,data/covers/reggae/3QMjg0as7BNJKlxyuSHSnW.jpg,Forever,1991-09-04,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,4FQHtgg3Du3Eaq4ppl9ehk,data/covers/reggae/4FQHtgg3Du3Eaq4ppl9ehk.jpg,IV,1993-01-01,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,3OksR5symNgdUFeaT36kSm,data/covers/reggae/3OksR5symNgdUFeaT36kSm.jpg,On the Rock,1995-02-24,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,0cQ06muRMrxaQZtaMMAvO2,data/covers/reggae/0cQ06muRMrxaQZtaMMAvO2.jpg,Free to Move,1996-01-01,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,0KrOVlWOeWwzqieOGLmePf,data/covers/reggae/0KrOVlWOeWwzqieOGLmePf.jpg,Stamina,2007-06-01,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,7gmxXGdeWxLeryBPEqOK23,data/covers/reggae/7gmxXGdeWxLeryBPEqOK23.jpg,Reggae Knights,2010-12-01,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,6o0Q1w66dQuxGN5irjo6UG,data/covers/reggae/6o0Q1w66dQuxGN5irjo6UG.jpg,Unconquered People,2015-02-27,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,0SMqwCy1xrFY5nNByKIWok,data/covers/reggae/0SMqwCy1xrFY5nNByKIWok.jpg,Play It Real,2015-12-04,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,5w2UBqpCdO3S4HJNgIDNbv,data/covers/reggae/5w2UBqpCdO3S4HJNgIDNbv.jpg,Reggae Music Never Dies,2025-02-28,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+reggae,569uOmw1u07ydZbWj9X7LQ,data/covers/reggae/569uOmw1u07ydZbWj9X7LQ.jpg,Cool and Calm,,2Y06xyHPovQ8DWLyVIpSJK,Israel Vibration
+techno,2jl2XQN5Z0iZPn5thGy9jS,data/covers/techno/2jl2XQN5Z0iZPn5thGy9jS.jpg,Scenario,2007-11-26,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,75ilFqVdPdEXeA1EZmW8oC,data/covers/techno/75ilFqVdPdEXeA1EZmW8oC.jpg,Dettmann,2010-04-26,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,1LmRknhxOwXY9hpCm8QIbx,data/covers/techno/1LmRknhxOwXY9hpCm8QIbx.jpg,Dettmann II,2013-09-16,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,7pVXZRWm7SXnKmoU84NsxG,data/covers/techno/7pVXZRWm7SXnKmoU84NsxG.jpg,DJ-Kicks (Marcel Dettmann) [Mixed Tracks],2016-10-14,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,0PNF69e8umC9I9blwOoR8Z,data/covers/techno/0PNF69e8umC9I9blwOoR8Z.jpg,Phantom Studies,2017-01-27,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,49b3cshXjZHfOzN3SfMWzr,data/covers/techno/49b3cshXjZHfOzN3SfMWzr.jpg,Fear of Programming,2022-11-25,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,3t8d7MkH1hAUbLaVGHaLct,data/covers/techno/3t8d7MkH1hAUbLaVGHaLct.jpg,Running Back Mastermix: Marcel Dettmann - Edits & Cuts (DJ Mix),2025-06-27,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,1KIVBgSbA16PBhClt0lSMG,data/covers/techno/1KIVBgSbA16PBhClt0lSMG.jpg,Conducted,,1sxHp39RqBEE01pgVqsdyP,Marcel Dettmann
+techno,59KJwVPvVCj1rH9AJ93kyK,data/covers/techno/59KJwVPvVCj1rH9AJ93kyK.jpg,AND Then There Was Light Sound Track,2017-11-06,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,71W9z9hP84oB6zVmQdRrXW,data/covers/techno/71W9z9hP84oB6zVmQdRrXW.jpg,Tomorrow Comes The Harvest,2018-09-28,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,1FfGSThzZxeULHDWvkZZHb,data/covers/techno/1FfGSThzZxeULHDWvkZZHb.jpg,SIGHT SOUND AND SPACE,2019-09-23,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,5JLzcvxjnciQcXnprdBs3V,data/covers/techno/5JLzcvxjnciQcXnprdBs3V.jpg,Think Again,2021-01-22,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,7mV6Nh5M2BMtPXB7x3Zzik,data/covers/techno/7mV6Nh5M2BMtPXB7x3Zzik.jpg,The Override Switch,2021-10-15,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,62Hw1JyWK2adspJaVDDkTg,data/covers/techno/62Hw1JyWK2adspJaVDDkTg.jpg,The Universe: Galaxy 1,2022-04-19,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,3VpOvUwS3lk7BHMaCQII6o,data/covers/techno/3VpOvUwS3lk7BHMaCQII6o.jpg,Wonderland,2022-04-22,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,42bHiKuuxkdIOe60Kj2U2Z,data/covers/techno/42bHiKuuxkdIOe60Kj2U2Z.jpg,Metropolis Metropolis,2023-03-03,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,5bl9lKdqTK6JysVgcf2G7c,data/covers/techno/5bl9lKdqTK6JysVgcf2G7c.jpg,THE TRIP - ENTER THE BLACK HOLE,2024-03-20,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,3Q2ZOfHbApcVPpLBw8AVwk,data/covers/techno/3Q2ZOfHbApcVPpLBw8AVwk.jpg,The Eye Witness,2024-07-05,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,0t6vaUf3Qgf9DjDW5hm2ii,data/covers/techno/0t6vaUf3Qgf9DjDW5hm2ii.jpg,Three Ages,,2eIDAcLKnWc4D350YyzvgS,Jeff Mills
+techno,6irxiwTv59BvXryB2rJGTl,data/covers/techno/6irxiwTv59BvXryB2rJGTl.jpg,Moses,2010-08-13,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
+techno,7MPgp1AL25WthBw0VfEYAs,data/covers/techno/7MPgp1AL25WthBw0VfEYAs.jpg,I'm Week,2010-12-12,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
+techno,4obvGroj4Sg4PbuLfdhFSo,data/covers/techno/4obvGroj4Sg4PbuLfdhFSo.jpg,Nina Kraviz,2012-02-27,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
+techno,1eaSy9TmNaaUiFYZs2T5N6,data/covers/techno/1eaSy9TmNaaUiFYZs2T5N6.jpg,Mr Jones,2013-12-02,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
+techno,4EZfT23K5svIBimtvBEShS,data/covers/techno/4EZfT23K5svIBimtvBEShS.jpg,DJ-Kicks (Nina Kraviz) [DJ Mix],2015-01-26,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
+techno,4cJQ8GYSXvDA14uA1g7Gp6,data/covers/techno/4cJQ8GYSXvDA14uA1g7Gp6.jpg,The Remixes,2015-12-25,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
+techno,6wZqyr0yloM7DZ76mht4S1,data/covers/techno/6wZqyr0yloM7DZ76mht4S1.jpg,Nina Kraviz Presents MASSEDUCTION Rewired,2019-04-12,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
+techno,3j8Mg3DogmEVXNYrHbDWeX,data/covers/techno/3j8Mg3DogmEVXNYrHbDWeX.jpg,"Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",2021-01-01,1oZmFNkGAT93yD1xX4vTRE,Nina Kraviz
