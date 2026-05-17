@@ -69,8 +69,8 @@ The scraper works around these limits.
 ## Status
 
 - [x] Phase 0: hygiene, repo setup
-- [x] Phase 1: data collection (2.125 covers across 10 genres)
-- [ ] Phase 2: data exploration + train/val/test split (group-split by artist)
+- [x] Phase 1: data collection (2.269 covers across 10 genres, 260 artists)
+- [x] Phase 2: data exploration + train/val/test split (group-split by artist)
 - [ ] Phase 3: PyTorch dataset + baseline model
 - [ ] Phase 4: hyperparameter study
 - [ ] Phase 5: evaluation (confusion matrix, per-class metrics)
