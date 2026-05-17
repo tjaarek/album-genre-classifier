@@ -17,6 +17,7 @@ __pycache__/
 
 # Claude Code
 CLAUDE.md
+.claude/
 
 # Data — covers and Spotify cache are reproducible via the scraper.
 # albums_raw.csv + artists_raw.csv are kept (small, document the snapshot).
