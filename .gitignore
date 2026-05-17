@@ -1,6 +1,21 @@
+# Secrets / API tokens
 .env
+.cache
+*.cache
+
+# Python
 .venv/
 __pycache__/
 *.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# OS
 .DS_Store
+
+# Data — covers and Spotify cache are reproducible via the scraper.
+# albums_raw.csv + artists_raw.csv are kept (small, document the snapshot).
+data/covers/
+data/spotify_cache.json
