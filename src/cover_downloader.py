@@ -20,19 +20,17 @@ from pathlib import Path
 import requests
 from tqdm import tqdm
 
-_ROOT = Path(__file__).resolve().parent.parent
-_CACHE_PATH = _ROOT / "data" / "spotify_cache.json"
-_ARTISTS_PATH = _ROOT / "src" / "artists.json"
-_COVERS_DIR = _ROOT / "data" / "covers"
+from config import MAX_ALBUMS_PER_ARTIST, MAX_DOWNLOAD_WORKERS, REQUEST_TIMEOUT_SEC
+from paths import ARTISTS_PATH, CACHE_PATH, COVERS_DIR
 
 
-def build_download_plan(max_albums: int = 15) -> list[tuple[str, str, str]]:
+def build_download_plan(max_albums: int = MAX_ALBUMS_PER_ARTIST) -> list[tuple[str, str, str]]:
     """Liefert [(genre, album_id, cover_url), ...], global dedupliziert nach album_id.
 
     Cap pro Artist: max_albums (newest-first, wie im Cache abgelegt).
     """
-    cache = json.loads(_CACHE_PATH.read_text(encoding="utf-8"))
-    artists = json.loads(_ARTISTS_PATH.read_text(encoding="utf-8"))
+    cache = json.loads(CACHE_PATH.read_text(encoding="utf-8"))
+    artists = json.loads(ARTISTS_PATH.read_text(encoding="utf-8"))
 
     seen: set[str] = set()
     plan: list[tuple[str, str, str]] = []
@@ -55,9 +53,13 @@ def build_download_plan(max_albums: int = 15) -> list[tuple[str, str, str]]:
 
 
 def _download_one(target: Path, url: str, session: requests.Session) -> tuple[bool, str | None]:
+    """Download a single cover image to *target*, creating parent dirs as needed.
+
+    Returns ``(True, None)`` on success or ``(False, error_message)`` on failure.
+    """
     target.parent.mkdir(parents=True, exist_ok=True)
     try:
-        resp = session.get(url, timeout=30)
+        resp = session.get(url, timeout=REQUEST_TIMEOUT_SEC)
         resp.raise_for_status()
     except requests.RequestException as e:
         return False, str(e)
@@ -65,13 +67,25 @@ def _download_one(target: Path, url: str, session: requests.Session) -> tuple[bo
     return True, None
 
 
-def download_all_covers(max_workers: int = 10, max_albums: int = 15) -> dict:
+def download_all_covers(
+    max_workers: int = MAX_DOWNLOAD_WORKERS,
+    max_albums: int = MAX_ALBUMS_PER_ARTIST,
+) -> dict:
+    """Download all album covers from the Spotify cache to COVERS_DIR.
+
+    Builds a globally-deduplicated download plan (one file per album_id),
+    skips already-present non-empty files, and runs parallel downloads via
+    a ThreadPoolExecutor.
+
+    Returns a summary dict with keys:
+    geplant, uebersprungen, neu_geladen, fehlgeschlagen.
+    """
     plan = build_download_plan(max_albums=max_albums)
 
     todo: list[tuple[Path, str, str]] = []
     skipped = 0
     for genre, album_id, url in plan:
-        target = _COVERS_DIR / genre / f"{album_id}.jpg"
+        target = COVERS_DIR / genre / f"{album_id}.jpg"
         if target.exists() and target.stat().st_size > 0:
             skipped += 1
             continue

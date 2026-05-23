@@ -9,27 +9,30 @@ keine zusaetzlichen API-Calls verursachen.
 import json
 import os
 import time
-from pathlib import Path
-from typing import Iterable, Optional
-from dotenv import load_dotenv
+from collections.abc import Iterable
+
 import spotipy
+from dotenv import load_dotenv
 from spotipy.oauth2 import SpotifyClientCredentials
 
+from config import (
+    MAX_ALBUMS_PER_ARTIST,
+    RATE_LIMIT_HTTP_STATUS,
+    REQUEST_DELAY_SEC,
+    SPOTIFY_ARTIST_ALBUMS_LIMIT,
+)
+from paths import CACHE_PATH
 
-_CACHE_PATH = Path(__file__).resolve().parent.parent / "data" / "spotify_cache.json"
-_cache: Optional[dict] = None
-
-# Pacing zwischen API-Calls — schuetzt vor Spotify's 30s-Rolling-Window-Limit.
-# 0.2s = max 5 Calls/Sekunde.
-_REQUEST_DELAY_SEC = 0.2
+_cache: dict | None = None
 
 
 def _load_cache() -> dict:
+    """Load the in-memory album cache, reading from disk on first call."""
     global _cache
     if _cache is not None:
         return _cache
-    if _CACHE_PATH.exists():
-        raw = json.loads(_CACHE_PATH.read_text(encoding="utf-8"))
+    if CACHE_PATH.exists():
+        raw = json.loads(CACHE_PATH.read_text(encoding="utf-8"))
         _cache = raw.get("albums", raw) if isinstance(raw, dict) else {}
     else:
         _cache = {}
@@ -37,25 +40,27 @@ def _load_cache() -> dict:
 
 
 def _save_cache() -> None:
+    """Persist the in-memory cache to CACHE_PATH as JSON."""
     if _cache is None:
         return
-    _CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    _CACHE_PATH.write_text(
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CACHE_PATH.write_text(
         json.dumps(_cache, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 
 
 class SpotifyRateLimitError(RuntimeError):
-    def __init__(self, retry_after_seconds: Optional[int], message: str):
+    def __init__(self, retry_after_seconds: int | None, message: str) -> None:
         super().__init__(message)
         self.retry_after_seconds = retry_after_seconds
 
 
 def _raise_if_rate_limit(exc: spotipy.SpotifyException) -> None:
-    if exc.http_status != 429:
+    """Raise SpotifyRateLimitError if *exc* is a 429 response; otherwise no-op."""
+    if exc.http_status != RATE_LIMIT_HTTP_STATUS:
         return
-    retry_after: Optional[int] = None
+    retry_after: int | None = None
     headers = getattr(exc, "headers", None) or {}
     raw = headers.get("Retry-After") or headers.get("retry-after")
     if raw is not None:
@@ -72,8 +77,12 @@ def _raise_if_rate_limit(exc: spotipy.SpotifyException) -> None:
 
 
 def get_spotify_client() -> spotipy.Spotify:
-    # status_retries=0: bei 429 NICHT intern warten (spotipy-default = 3 Retries
-    # mit 'Retry-After'-Sleep; bei Daily-Cap waeren das bis zu ~63h Haenger).
+    """Construct an authenticated Spotify client using Client Credentials flow.
+
+    Sets ``status_retries=0`` so spotipy does not internally sleep on 429
+    responses — the daily-cap retry-after can be >24 h, which would hang
+    the process silently.
+    """
     load_dotenv()
     auth_manager = SpotifyClientCredentials(
         client_id=os.getenv("CLIENT_ID"),
@@ -82,7 +91,65 @@ def get_spotify_client() -> spotipy.Spotify:
     return spotipy.Spotify(auth_manager=auth_manager, status_retries=0)
 
 
-def get_artist_albums(sp: spotipy.Spotify, artist_id: str, max_albums: int = 15) -> list[dict]:
+def _paginate_artist_albums(
+    sp: spotipy.Spotify,
+    artist_id: str,
+    max_albums: int,
+) -> list[dict]:
+    """Fetch up to *max_albums* album records from Spotify, handling pagination.
+
+    Stops early when Spotify returns an empty page or when *max_albums* is
+    reached. Each page sleeps REQUEST_DELAY_SEC to respect the rate limit.
+
+    Returns a list of normalized album dicts (keys: album_id, album_name,
+    release_date, total_tracks, cover_url_640, cover_url_300, artist_id).
+    """
+    all_albums: list[dict] = []
+    offset = 0
+    limit = SPOTIFY_ARTIST_ALBUMS_LIMIT
+
+    while len(all_albums) < max_albums:
+        try:
+            response = sp.artist_albums(
+                artist_id,
+                album_type="album",
+                limit=limit,
+                offset=offset,
+            )
+        except spotipy.SpotifyException as e:
+            _raise_if_rate_limit(e)
+            raise
+        time.sleep(REQUEST_DELAY_SEC)
+        items = response.get("items", [])
+        if not items:
+            break
+
+        for album in items:
+            images = album.get("images", [])
+            all_albums.append({
+                "album_id": album["id"],
+                "album_name": album["name"],
+                "release_date": album.get("release_date"),
+                "total_tracks": album.get("total_tracks"),
+                "cover_url_640": images[0]["url"] if len(images) > 0 else None,
+                "cover_url_300": images[1]["url"] if len(images) > 1 else None,
+                "artist_id": artist_id,
+            })
+            if len(all_albums) >= max_albums:
+                break
+
+        if len(items) < limit:
+            break
+        offset += limit
+
+    return all_albums
+
+
+def get_artist_albums(
+    sp: spotipy.Spotify,
+    artist_id: str,
+    max_albums: int = MAX_ALBUMS_PER_ARTIST,
+) -> list[dict]:
     """Holt die neuesten max_albums Alben eines Artists (Disk-Cache).
 
     Spotify liefert Alben default newest-first → wir kriegen die juengsten max_albums.
@@ -94,44 +161,7 @@ def get_artist_albums(sp: spotipy.Spotify, artist_id: str, max_albums: int = 15)
     if artist_id in cache:
         return [dict(a) for a in cache[artist_id][:max_albums]]
 
-    all_albums = []
-    offset = 0
-    limit = 10  # Spotify-Max fuer artist_albums
-
-    while len(all_albums) < max_albums:
-        try:
-            response = sp.artist_albums(
-                artist_id,
-                album_type='album',
-                limit=limit,
-                offset=offset,
-            )
-        except spotipy.SpotifyException as e:
-            _raise_if_rate_limit(e)
-            raise
-        time.sleep(_REQUEST_DELAY_SEC)
-        items = response.get('items', [])
-        if not items:
-            break
-
-        for album in items:
-            images = album.get('images', [])
-            all_albums.append({
-                'album_id': album['id'],
-                'album_name': album['name'],
-                'release_date': album.get('release_date'),
-                'total_tracks': album.get('total_tracks'),
-                'cover_url_640': images[0]['url'] if len(images) > 0 else None,
-                'cover_url_300': images[1]['url'] if len(images) > 1 else None,
-                'artist_id': artist_id,
-            })
-            if len(all_albums) >= max_albums:
-                break
-
-        if len(items) < limit:
-            break
-        offset += limit
-
+    all_albums = _paginate_artist_albums(sp, artist_id, max_albums)
     cache[artist_id] = all_albums
     _save_cache()
     return [dict(a) for a in all_albums]
