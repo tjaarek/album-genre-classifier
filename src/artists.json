@@ -389,10 +389,6 @@
       "id": "5vngPClqofybhPERIqQMYd"
     },
     {
-      "name": "Garth Brooks",
-      "id": "4BclNkZtAUq1YrYNzye3N7"
-    },
-    {
       "name": "Shania Twain",
       "id": "5e4Dhzv426EvQe3aDb64jL"
     },
@@ -501,10 +497,6 @@
     {
       "name": "Israel Vibration",
       "id": "2Y06xyHPovQ8DWLyVIpSJK"
-    },
-    {
-      "name": "The Mighty Diamonds",
-      "id": "7Hkqp1OYpXbJgm1JiPD4bs"
     },
     {
       "name": "Shabba Ranks",
@@ -757,10 +749,6 @@
       "id": "5Ho1vKl1Uz8bJlk4vbmvmf"
     },
     {
-      "name": "Len Faki",
-      "id": "3IjjV8NYa7Mi7qDys0ct4S"
-    },
-    {
       "name": "Chris Liebing",
       "id": "21444lX8gpmOX36icLmbFI"
     },
@@ -875,10 +863,6 @@
     {
       "name": "Tale of Us",
       "id": "1UL813H5aj3e8ekE5RqWqc"
-    },
-    {
-      "name": "Conrad Taylor",
-      "id": "2xycbnmcCACddcAnOanEnw"
     }
   ],
   "house": [
@@ -887,20 +871,12 @@
       "id": "6nS5roXSAGhTGr34W6n7Et"
     },
     {
-      "name": "Fisher",
-      "id": "1VJ0briNOlXRtJUAzoUJdt"
-    },
-    {
       "name": "Frankie Knuckles",
       "id": "63yl9nDNrHpiAYGlNJxxjc"
     },
     {
       "name": "Kerri Chandler",
       "id": "7nqpEU6DCHkNtK1bYsyS3W"
-    },
-    {
-      "name": "MK",
-      "id": "1yqxFtPHKcGcv6SXZNdyT9"
     },
     {
       "name": "Duke Dumont",
@@ -945,10 +921,6 @@
     {
       "name": "Andhim",
       "id": "6XJeFzmI6vrWyHcdB7EImP"
-    },
-    {
-      "name": "Frankey & Sandrino",
-      "id": "50AWbCtpX2Hk9qnocJ34gk"
     },
     {
       "name": "Tube & Berger",
@@ -1067,10 +1039,6 @@
       "id": "3ebS2RuCq8QeLyndUDmgB5"
     },
     {
-      "name": "HUGEL",
-      "id": "5PlfkPxwCpRRWQJBxCa0By"
-    },
-    {
       "name": "Keinemusik",
       "id": "26WKgv73kRHD0gEDKD1i8j"
     },
@@ -1081,14 +1049,6 @@
     {
       "name": "Jonas Blue",
       "id": "1HBjj22wzbscIZ9sEb5dyf"
-    },
-    {
-      "name": "MoBlack",
-      "id": "6Je4hal6B5wiRd46aeswrs"
-    },
-    {
-      "name": "Maz",
-      "id": "6gYwbDKcqhLitCTlgF1oZn"
     }
   ]
 }
