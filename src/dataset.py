@@ -69,16 +69,22 @@ def build_transforms(split: str) -> transforms.Compose:
 # Dataset
 # ---------------------------------------------------------------------------
 
+_REPO_ROOT: Path = Path(__file__).resolve().parent.parent
+
+
 class AlbumCoverDataset(Dataset):
     """Dataset backed by one of the split CSVs in data/splits/.
 
     Args:
         csv_path: Path to train.csv / val.csv / test.csv.
         split:    One of 'train', 'val', 'test' — controls augmentation.
+        root:     Repo root used to resolve relative cover_path entries.
+                  Defaults to the repo root derived from this file's location.
     """
 
-    def __init__(self, csv_path: Path, split: str) -> None:
+    def __init__(self, csv_path: Path, split: str, root: Path = _REPO_ROOT) -> None:
         self.df = pd.read_csv(csv_path)
+        self.root = root
         self.transform = build_transforms(split)
 
     def __len__(self) -> int:
@@ -86,7 +92,11 @@ class AlbumCoverDataset(Dataset):
 
     def __getitem__(self, idx: int) -> tuple[Tensor, int]:
         row = self.df.iloc[idx]
-        img = Image.open(row["cover_path"]).convert("RGB")
+        cover = Path(row["cover_path"])
+        # Support both absolute paths (legacy) and relative paths (relative to root).
+        if not cover.is_absolute():
+            cover = self.root / cover
+        img = Image.open(cover).convert("RGB")
         label: int = GENRE_TO_IDX[row["genre"]]
         return self.transform(img), label
 
