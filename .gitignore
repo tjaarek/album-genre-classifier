@@ -21,5 +21,8 @@ CLAUDE.md
 
 # Data — covers and Spotify cache are reproducible via the scraper.
 # albums_raw.csv + artists_raw.csv are kept (small, document the snapshot).
+# data/splits/ is committed (small CSVs, reproducible but convenient to track).
+# data/checkpoints/ contains large .pt model weights — gitignored.
 data/covers/
 data/spotify_cache.json
+data/checkpoints/
