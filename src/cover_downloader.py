@@ -20,8 +20,17 @@ from pathlib import Path
 import requests
 from tqdm import tqdm
 
-from config import MAX_ALBUMS_PER_ARTIST, MAX_DOWNLOAD_WORKERS, REQUEST_TIMEOUT_SEC
-from paths import ARTISTS_PATH, CACHE_PATH, COVERS_DIR
+# ---------------------------------------------------------------------------
+# Module-level constants
+# ---------------------------------------------------------------------------
+_ROOT = Path(__file__).resolve().parent.parent
+CACHE_PATH: Path = _ROOT / "data" / "spotify_cache.json"
+ARTISTS_PATH: Path = _ROOT / "src" / "artists.json"
+COVERS_DIR: Path = _ROOT / "data" / "covers"
+
+MAX_ALBUMS_PER_ARTIST: int = 15
+MAX_DOWNLOAD_WORKERS: int = 10
+REQUEST_TIMEOUT_SEC: int = 30
 
 
 def build_download_plan(max_albums: int = MAX_ALBUMS_PER_ARTIST) -> list[tuple[str, str, str]]:

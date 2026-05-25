@@ -10,18 +10,22 @@ import json
 import os
 import time
 from collections.abc import Iterable
+from pathlib import Path
 
 import spotipy
 from dotenv import load_dotenv
 from spotipy.oauth2 import SpotifyClientCredentials
 
-from config import (
-    MAX_ALBUMS_PER_ARTIST,
-    RATE_LIMIT_HTTP_STATUS,
-    REQUEST_DELAY_SEC,
-    SPOTIFY_ARTIST_ALBUMS_LIMIT,
-)
-from paths import CACHE_PATH
+# ---------------------------------------------------------------------------
+# Module-level constants
+# ---------------------------------------------------------------------------
+_ROOT = Path(__file__).resolve().parent.parent
+CACHE_PATH: Path = _ROOT / "data" / "spotify_cache.json"
+
+REQUEST_DELAY_SEC: float = 0.2        # max 5 calls/s, within Spotify's 30s window
+SPOTIFY_ARTIST_ALBUMS_LIMIT: int = 10  # conservative; documented max is 20
+RATE_LIMIT_HTTP_STATUS: int = 429
+MAX_ALBUMS_PER_ARTIST: int = 15
 
 _cache: dict | None = None
 

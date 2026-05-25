@@ -17,12 +17,18 @@ from __future__ import annotations
 import json
 import re
 import time
+from pathlib import Path
 
 import spotipy
 
-from config import MIN_ALBUMS_FOR_AUTO_FILL, REQUEST_DELAY_SEC
-from paths import ARTISTS_PATH
 from spotify_scraper import get_spotify_client
+
+# ---------------------------------------------------------------------------
+# Module-level constants
+# ---------------------------------------------------------------------------
+ARTISTS_PATH: Path = Path(__file__).resolve().parent / "artists.json"
+REQUEST_DELAY_SEC: float = 0.2
+MIN_ALBUMS_FOR_AUTO_FILL: int = 3
 
 
 def _normalize(name: str) -> str:
