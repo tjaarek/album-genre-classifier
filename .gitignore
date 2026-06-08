@@ -24,5 +24,6 @@ CLAUDE.md
 # data/splits/ is committed (small CSVs, reproducible but convenient to track).
 # data/checkpoints/ contains large .pt model weights — gitignored.
 data/covers/
+data/covers_300/
 data/spotify_cache.json
 data/checkpoints/

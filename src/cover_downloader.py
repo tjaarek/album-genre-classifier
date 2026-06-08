@@ -2,7 +2,11 @@
 Album-Cover-Download.
 
 Liest data/spotify_cache.json (Album-Metadaten inkl. Cover-URLs) und laedt
-alle 640px-Cover nach data/covers/{genre}/{album_id}.jpg.
+Cover nach {covers_dir}/{genre}/{album_id}.jpg.
+
+Auflösung wählbar über url_key ('cover_url_640' oder 'cover_url_300'); der
+Zielordner ist über covers_dir parametrisierbar, sodass 640er- und 300er-
+Variante parallel koexistieren können.
 
 Globale Deduplizierung nach album_id: bei Collabs ueber Genre-Grenzen gewinnt
 das erste Genre in der Iterationsreihenfolge von src/artists.json.
@@ -31,12 +35,17 @@ COVERS_DIR: Path = _ROOT / "data" / "covers"
 MAX_ALBUMS_PER_ARTIST: int = 15
 MAX_DOWNLOAD_WORKERS: int = 10
 REQUEST_TIMEOUT_SEC: int = 30
+DEFAULT_URL_KEY: str = "cover_url_640"
 
 
-def build_download_plan(max_albums: int = MAX_ALBUMS_PER_ARTIST) -> list[tuple[str, str, str]]:
+def build_download_plan(
+    max_albums: int = MAX_ALBUMS_PER_ARTIST,
+    url_key: str = DEFAULT_URL_KEY,
+) -> list[tuple[str, str, str]]:
     """Liefert [(genre, album_id, cover_url), ...], global dedupliziert nach album_id.
 
     Cap pro Artist: max_albums (newest-first, wie im Cache abgelegt).
+    url_key wählt die Auflösung ('cover_url_640' oder 'cover_url_300').
     """
     cache = json.loads(CACHE_PATH.read_text(encoding="utf-8"))
     artists = json.loads(ARTISTS_PATH.read_text(encoding="utf-8"))
@@ -53,7 +62,7 @@ def build_download_plan(max_albums: int = MAX_ALBUMS_PER_ARTIST) -> list[tuple[s
                 album_id = album["album_id"]
                 if album_id in seen:
                     continue
-                cover_url = album.get("cover_url_640")
+                cover_url = album.get(url_key)
                 if not cover_url:
                     continue
                 seen.add(album_id)
@@ -79,8 +88,10 @@ def _download_one(target: Path, url: str, session: requests.Session) -> tuple[bo
 def download_all_covers(
     max_workers: int = MAX_DOWNLOAD_WORKERS,
     max_albums: int = MAX_ALBUMS_PER_ARTIST,
+    covers_dir: Path = COVERS_DIR,
+    url_key: str = DEFAULT_URL_KEY,
 ) -> dict:
-    """Download all album covers from the Spotify cache to COVERS_DIR.
+    """Download all album covers from the Spotify cache to covers_dir.
 
     Builds a globally-deduplicated download plan (one file per album_id),
     skips already-present non-empty files, and runs parallel downloads via
@@ -89,12 +100,12 @@ def download_all_covers(
     Returns a summary dict with keys:
     geplant, uebersprungen, neu_geladen, fehlgeschlagen.
     """
-    plan = build_download_plan(max_albums=max_albums)
+    plan = build_download_plan(max_albums=max_albums, url_key=url_key)
 
     todo: list[tuple[Path, str, str]] = []
     skipped = 0
     for genre, album_id, url in plan:
-        target = COVERS_DIR / genre / f"{album_id}.jpg"
+        target = covers_dir / genre / f"{album_id}.jpg"
         if target.exists() and target.stat().st_size > 0:
             skipped += 1
             continue
